@@ -1,0 +1,4142 @@
+[
+    {
+        "fieldId": 50,
+        "fieldName": "Gundogdu Res",
+        "values": [
+            {
+                "fieldName": "Turbine 1 AirPres",
+                "timestamp": 1636351200,
+                "power": 943.375222857143
+            },
+            {
+                "fieldName": "Turbine 1 Power",
+                "timestamp": 1636351200,
+                "power": 0
+            },
+            {
+                "fieldName": "Turbine 1 Temperature",
+                "timestamp": 1636351200,
+                "power": 20.662500375
+            },
+            {
+                "fieldName": "Turbine 1 WindDir",
+                "timestamp": 1636351200,
+                "power": 40.1365603636364
+            },
+            {
+                "fieldName": "Turbine 1 WindSpeed",
+                "timestamp": 1636351200,
+                "power": 1.8984538
+            },
+            {
+                "fieldName": "Turbine 2 AirPres",
+                "timestamp": 1636351200,
+                "power": 945.573345833333
+            },
+            {
+                "fieldName": "Turbine 2 Power",
+                "timestamp": 1636351200,
+                "power": 0
+            },
+            {
+                "fieldName": "Turbine 2 Temperature",
+                "timestamp": 1636351200,
+                "power": 20.4923072307692
+            },
+            {
+                "fieldName": "Turbine 2 WindDir",
+                "timestamp": 1636351200,
+                "power": 44.4097342857143
+            },
+            {
+                "fieldName": "Turbine 2 WindSpeed",
+                "timestamp": 1636351200,
+                "power": 1.81071126666667
+            },
+            {
+                "fieldName": "Turbine 3 AirPres",
+                "timestamp": 1636351200,
+                "power": 930.8532
+            },
+            {
+                "fieldName": "Turbine 3 Power",
+                "timestamp": 1636351200,
+                "power": 0
+            },
+            {
+                "fieldName": "Turbine 3 Temperature",
+                "timestamp": 1636351200,
+                "power": 22.3285707857143
+            },
+            {
+                "fieldName": "Turbine 3 WindDir",
+                "timestamp": 1636351200,
+                "power": 42.409887875
+            },
+            {
+                "fieldName": "Turbine 3 WindSpeed",
+                "timestamp": 1636351200,
+                "power": 1.89547742125
+            },
+            {
+                "fieldName": "Turbine 4 AirPres",
+                "timestamp": 1636351200,
+                "power": 940.6471
+            },
+            {
+                "fieldName": "Turbine 4 Power",
+                "timestamp": 1636351200,
+                "power": 0
+            },
+            {
+                "fieldName": "Turbine 4 Temperature",
+                "timestamp": 1636351200,
+                "power": 21.9666671666667
+            },
+            {
+                "fieldName": "Turbine 4 WindDir",
+                "timestamp": 1636351200,
+                "power": 57.103846125
+            },
+            {
+                "fieldName": "Turbine 4 WindSpeed",
+                "timestamp": 1636351200,
+                "power": 2.09091061333333
+            },
+            {
+                "fieldName": "Turbine 1 AirPres",
+                "timestamp": 1636351800,
+                "power": 943.361853333333
+            },
+            {
+                "fieldName": "Turbine 1 Power",
+                "timestamp": 1636351800,
+                "power": 0
+            },
+            {
+                "fieldName": "Turbine 1 Temperature",
+                "timestamp": 1636351800,
+                "power": 21.0999885
+            },
+            {
+                "fieldName": "Turbine 1 WindDir",
+                "timestamp": 1636351800,
+                "power": 47.249446
+            },
+            {
+                "fieldName": "Turbine 1 WindSpeed",
+                "timestamp": 1636351800,
+                "power": 2.59299947142857
+            },
+            {
+                "fieldName": "Turbine 2 AirPres",
+                "timestamp": 1636351800,
+                "power": 945.583810526316
+            },
+            {
+                "fieldName": "Turbine 2 Power",
+                "timestamp": 1636351800,
+                "power": 0
+            },
+            {
+                "fieldName": "Turbine 2 Temperature",
+                "timestamp": 1636351800,
+                "power": 20.2833303333333
+            },
+            {
+                "fieldName": "Turbine 2 WindDir",
+                "timestamp": 1636351800,
+                "power": 68.7765585
+            },
+            {
+                "fieldName": "Turbine 2 WindSpeed",
+                "timestamp": 1636351800,
+                "power": 2.4960320875
+            },
+            {
+                "fieldName": "Turbine 3 AirPres",
+                "timestamp": 1636351800,
+                "power": 930.8397
+            },
+            {
+                "fieldName": "Turbine 3 Power",
+                "timestamp": 1636351800,
+                "power": 0
+            },
+            {
+                "fieldName": "Turbine 3 Temperature",
+                "timestamp": 1636351800,
+                "power": 22.3461538461538
+            },
+            {
+                "fieldName": "Turbine 3 WindDir",
+                "timestamp": 1636351800,
+                "power": 92.4527455294117
+            },
+            {
+                "fieldName": "Turbine 3 WindSpeed",
+                "timestamp": 1636351800,
+                "power": 2.936242025
+            },
+            {
+                "fieldName": "Turbine 4 AirPres",
+                "timestamp": 1636351800,
+                "power": 940.6354
+            },
+            {
+                "fieldName": "Turbine 4 Power",
+                "timestamp": 1636351800,
+                "power": 0
+            },
+            {
+                "fieldName": "Turbine 4 Temperature",
+                "timestamp": 1636351800,
+                "power": 22.7466664666667
+            },
+            {
+                "fieldName": "Turbine 4 WindDir",
+                "timestamp": 1636351800,
+                "power": 92.7494461538462
+            },
+            {
+                "fieldName": "Turbine 4 WindSpeed",
+                "timestamp": 1636351800,
+                "power": 2.6038317
+            },
+            {
+                "fieldName": "Turbine 1 AirPres",
+                "timestamp": 1636352400,
+                "power": 943.375222857143
+            },
+            {
+                "fieldName": "Turbine 1 Power",
+                "timestamp": 1636352400,
+                "power": 0
+            },
+            {
+                "fieldName": "Turbine 1 Temperature",
+                "timestamp": 1636352400,
+                "power": 21.3545408181818
+            },
+            {
+                "fieldName": "Turbine 1 WindDir",
+                "timestamp": 1636352400,
+                "power": 89.7219726
+            },
+            {
+                "fieldName": "Turbine 1 WindSpeed",
+                "timestamp": 1636352400,
+                "power": 1.82184707777778
+            },
+            {
+                "fieldName": "Turbine 2 AirPres",
+                "timestamp": 1636352400,
+                "power": 945.56165
+            },
+            {
+                "fieldName": "Turbine 2 Power",
+                "timestamp": 1636352400,
+                "power": 0
+            },
+            {
+                "fieldName": "Turbine 2 Temperature",
+                "timestamp": 1636352400,
+                "power": 20.6142861428571
+            },
+            {
+                "fieldName": "Turbine 2 WindDir",
+                "timestamp": 1636352400,
+                "power": 100.452381666667
+            },
+            {
+                "fieldName": "Turbine 2 WindSpeed",
+                "timestamp": 1636352400,
+                "power": 1.73750737777778
+            },
+            {
+                "fieldName": "Turbine 3 AirPres",
+                "timestamp": 1636352400,
+                "power": 930.9
+            },
+            {
+                "fieldName": "Turbine 3 Power",
+                "timestamp": 1636352400,
+                "power": 0
+            },
+            {
+                "fieldName": "Turbine 3 Temperature",
+                "timestamp": 1636352400,
+                "power": 21.58124925
+            },
+            {
+                "fieldName": "Turbine 3 WindDir",
+                "timestamp": 1636352400,
+                "power": 98.5007311666667
+            },
+            {
+                "fieldName": "Turbine 3 WindSpeed",
+                "timestamp": 1636352400,
+                "power": 1.68356232571429
+            },
+            {
+                "fieldName": "Turbine 4 AirPres",
+                "timestamp": 1636352400,
+                "power": 940.585675
+            },
+            {
+                "fieldName": "Turbine 4 Power",
+                "timestamp": 1636352400,
+                "power": 0
+            },
+            {
+                "fieldName": "Turbine 4 Temperature",
+                "timestamp": 1636352400,
+                "power": 22.8999972142857
+            },
+            {
+                "fieldName": "Turbine 4 WindDir",
+                "timestamp": 1636352400,
+                "power": 95.792026625
+            },
+            {
+                "fieldName": "Turbine 4 WindSpeed",
+                "timestamp": 1636352400,
+                "power": 2.29007453571429
+            },
+            {
+                "fieldName": "Turbine 1 AirPres",
+                "timestamp": 1636353000,
+                "power": 943.31506
+            },
+            {
+                "fieldName": "Turbine 1 Power",
+                "timestamp": 1636353000,
+                "power": 0
+            },
+            {
+                "fieldName": "Turbine 1 Temperature",
+                "timestamp": 1636353000,
+                "power": 21.1299973
+            },
+            {
+                "fieldName": "Turbine 1 WindDir",
+                "timestamp": 1636353000,
+                "power": 80.3373585
+            },
+            {
+                "fieldName": "Turbine 1 WindSpeed",
+                "timestamp": 1636353000,
+                "power": 1.86667354583333
+            },
+            {
+                "fieldName": "Turbine 2 AirPres",
+                "timestamp": 1636353000,
+                "power": 945.553391764706
+            },
+            {
+                "fieldName": "Turbine 2 Power",
+                "timestamp": 1636353000,
+                "power": 0
+            },
+            {
+                "fieldName": "Turbine 2 Temperature",
+                "timestamp": 1636353000,
+                "power": 20.6000026666667
+            },
+            {
+                "fieldName": "Turbine 2 WindDir",
+                "timestamp": 1636353000,
+                "power": 82.4834063
+            },
+            {
+                "fieldName": "Turbine 2 WindSpeed",
+                "timestamp": 1636353000,
+                "power": 2.15948329
+            },
+            {
+                "fieldName": "Turbine 3 AirPres",
+                "timestamp": 1636353000,
+                "power": 930.798028571429
+            },
+            {
+                "fieldName": "Turbine 3 Power",
+                "timestamp": 1636353000,
+                "power": 0
+            },
+            {
+                "fieldName": "Turbine 3 Temperature",
+                "timestamp": 1636353000,
+                "power": 20.8699997
+            },
+            {
+                "fieldName": "Turbine 3 WindDir",
+                "timestamp": 1636353000,
+                "power": 78.8864994285714
+            },
+            {
+                "fieldName": "Turbine 3 WindSpeed",
+                "timestamp": 1636353000,
+                "power": 2.31717775
+            },
+            {
+                "fieldName": "Turbine 4 AirPres",
+                "timestamp": 1636353000,
+                "power": 940.6255
+            },
+            {
+                "fieldName": "Turbine 4 Power",
+                "timestamp": 1636353000,
+                "power": 0
+            },
+            {
+                "fieldName": "Turbine 4 Temperature",
+                "timestamp": 1636353000,
+                "power": 23.2818146363636
+            },
+            {
+                "fieldName": "Turbine 4 WindDir",
+                "timestamp": 1636353000,
+                "power": 75.9736266
+            },
+            {
+                "fieldName": "Turbine 4 WindSpeed",
+                "timestamp": 1636353000,
+                "power": 2.8177344
+            },
+            {
+                "fieldName": "Turbine 1 AirPres",
+                "timestamp": 1636353600,
+                "power": 943.249512
+            },
+            {
+                "fieldName": "Turbine 1 Power",
+                "timestamp": 1636353600,
+                "power": 0
+            },
+            {
+                "fieldName": "Turbine 1 Temperature",
+                "timestamp": 1636353600,
+                "power": 21.4928556428571
+            },
+            {
+                "fieldName": "Turbine 1 WindDir",
+                "timestamp": 1636353600,
+                "power": 62.6140816363637
+            },
+            {
+                "fieldName": "Turbine 1 WindSpeed",
+                "timestamp": 1636353600,
+                "power": 2.36446903846154
+            },
+            {
+                "fieldName": "Turbine 2 AirPres",
+                "timestamp": 1636353600,
+                "power": 945.495584117647
+            },
+            {
+                "fieldName": "Turbine 2 Power",
+                "timestamp": 1636353600,
+                "power": 0
+            },
+            {
+                "fieldName": "Turbine 2 Temperature",
+                "timestamp": 1636353600,
+                "power": 22.0916634166667
+            },
+            {
+                "fieldName": "Turbine 2 WindDir",
+                "timestamp": 1636353600,
+                "power": 102.187754071429
+            },
+            {
+                "fieldName": "Turbine 2 WindSpeed",
+                "timestamp": 1636353600,
+                "power": 1.499151553
+            },
+            {
+                "fieldName": "Turbine 3 AirPres",
+                "timestamp": 1636353600,
+                "power": 930.71457368421
+            },
+            {
+                "fieldName": "Turbine 3 Power",
+                "timestamp": 1636353600,
+                "power": 0
+            },
+            {
+                "fieldName": "Turbine 3 Temperature",
+                "timestamp": 1636353600,
+                "power": 20.999999
+            },
+            {
+                "fieldName": "Turbine 3 WindDir",
+                "timestamp": 1636353600,
+                "power": 76.71812875
+            },
+            {
+                "fieldName": "Turbine 3 WindSpeed",
+                "timestamp": 1636353600,
+                "power": 2.30315572764706
+            },
+            {
+                "fieldName": "Turbine 4 AirPres",
+                "timestamp": 1636353600,
+                "power": 940.5457
+            },
+            {
+                "fieldName": "Turbine 4 Power",
+                "timestamp": 1636353600,
+                "power": 0.0413028565714286
+            },
+            {
+                "fieldName": "Turbine 4 Temperature",
+                "timestamp": 1636353600,
+                "power": 22.3374986875
+            },
+            {
+                "fieldName": "Turbine 4 WindDir",
+                "timestamp": 1636353600,
+                "power": 65.8224888666667
+            },
+            {
+                "fieldName": "Turbine 4 WindSpeed",
+                "timestamp": 1636353600,
+                "power": 2.67818294
+            },
+            {
+                "fieldName": "Turbine 1 AirPres",
+                "timestamp": 1636354200,
+                "power": 943.196209230769
+            },
+            {
+                "fieldName": "Turbine 1 Power",
+                "timestamp": 1636354200,
+                "power": 0
+            },
+            {
+                "fieldName": "Turbine 1 Temperature",
+                "timestamp": 1636354200,
+                "power": 22.0615375384615
+            },
+            {
+                "fieldName": "Turbine 1 WindDir",
+                "timestamp": 1636354200,
+                "power": 91.6694711111111
+            },
+            {
+                "fieldName": "Turbine 1 WindSpeed",
+                "timestamp": 1636354200,
+                "power": 1.6933982
+            },
+            {
+                "fieldName": "Turbine 2 AirPres",
+                "timestamp": 1636354200,
+                "power": 945.42126
+            },
+            {
+                "fieldName": "Turbine 2 Power",
+                "timestamp": 1636354200,
+                "power": 0
+            },
+            {
+                "fieldName": "Turbine 2 Temperature",
+                "timestamp": 1636354200,
+                "power": 22.1300018
+            },
+            {
+                "fieldName": "Turbine 2 WindDir",
+                "timestamp": 1636354200,
+                "power": 107.8150152
+            },
+            {
+                "fieldName": "Turbine 2 WindSpeed",
+                "timestamp": 1636354200,
+                "power": 2.12635781538462
+            },
+            {
+                "fieldName": "Turbine 3 AirPres",
+                "timestamp": 1636354200,
+                "power": 930.735447058823
+            },
+            {
+                "fieldName": "Turbine 3 Power",
+                "timestamp": 1636354200,
+                "power": 0.00898274529411765
+            },
+            {
+                "fieldName": "Turbine 3 Temperature",
+                "timestamp": 1636354200,
+                "power": 21.4999991666667
+            },
+            {
+                "fieldName": "Turbine 3 WindDir",
+                "timestamp": 1636354200,
+                "power": 86.3833501538462
+            },
+            {
+                "fieldName": "Turbine 3 WindSpeed",
+                "timestamp": 1636354200,
+                "power": 3.18326732307692
+            },
+            {
+                "fieldName": "Turbine 4 AirPres",
+                "timestamp": 1636354200,
+                "power": 940.5067015
+            },
+            {
+                "fieldName": "Turbine 4 Power",
+                "timestamp": 1636354200,
+                "power": 0.0714304769285714
+            },
+            {
+                "fieldName": "Turbine 4 Temperature",
+                "timestamp": 1636354200,
+                "power": 22.3333325
+            },
+            {
+                "fieldName": "Turbine 4 WindDir",
+                "timestamp": 1636354200,
+                "power": 92.6290217647059
+            },
+            {
+                "fieldName": "Turbine 4 WindSpeed",
+                "timestamp": 1636354200,
+                "power": 2.83692143125
+            },
+            {
+                "fieldName": "Turbine 1 AirPres",
+                "timestamp": 1636354800,
+                "power": 943.1746
+            },
+            {
+                "fieldName": "Turbine 1 Power",
+                "timestamp": 1636354800,
+                "power": 0
+            },
+            {
+                "fieldName": "Turbine 1 Temperature",
+                "timestamp": 1636354800,
+                "power": 22.1692293846154
+            },
+            {
+                "fieldName": "Turbine 1 WindDir",
+                "timestamp": 1636354800,
+                "power": 108.446231428571
+            },
+            {
+                "fieldName": "Turbine 1 WindSpeed",
+                "timestamp": 1636354800,
+                "power": 2.4959704
+            },
+            {
+                "fieldName": "Turbine 2 AirPres",
+                "timestamp": 1636354800,
+                "power": 945.401208571428
+            },
+            {
+                "fieldName": "Turbine 2 Power",
+                "timestamp": 1636354800,
+                "power": 0
+            },
+            {
+                "fieldName": "Turbine 2 Temperature",
+                "timestamp": 1636354800,
+                "power": 22.0933339333333
+            },
+            {
+                "fieldName": "Turbine 2 WindDir",
+                "timestamp": 1636354800,
+                "power": 112.06682875
+            },
+            {
+                "fieldName": "Turbine 2 WindSpeed",
+                "timestamp": 1636354800,
+                "power": 2.66727233333333
+            },
+            {
+                "fieldName": "Turbine 3 AirPres",
+                "timestamp": 1636354800,
+                "power": 930.740825
+            },
+            {
+                "fieldName": "Turbine 3 Power",
+                "timestamp": 1636354800,
+                "power": 0.0371166665615
+            },
+            {
+                "fieldName": "Turbine 3 Temperature",
+                "timestamp": 1636354800,
+                "power": 21.9111116111111
+            },
+            {
+                "fieldName": "Turbine 3 WindDir",
+                "timestamp": 1636354800,
+                "power": 103.087622894737
+            },
+            {
+                "fieldName": "Turbine 3 WindSpeed",
+                "timestamp": 1636354800,
+                "power": 2.81674662631579
+            },
+            {
+                "fieldName": "Turbine 4 AirPres",
+                "timestamp": 1636354800,
+                "power": 940.506701428572
+            },
+            {
+                "fieldName": "Turbine 4 Power",
+                "timestamp": 1636354800,
+                "power": 0.0400339401877273
+            },
+            {
+                "fieldName": "Turbine 4 Temperature",
+                "timestamp": 1636354800,
+                "power": 21.4476187619048
+            },
+            {
+                "fieldName": "Turbine 4 WindDir",
+                "timestamp": 1636354800,
+                "power": 112.766974166667
+            },
+            {
+                "fieldName": "Turbine 4 WindSpeed",
+                "timestamp": 1636354800,
+                "power": 2.55309377619048
+            },
+            {
+                "fieldName": "Turbine 1 AirPres",
+                "timestamp": 1636355400,
+                "power": 943.123545454545
+            },
+            {
+                "fieldName": "Turbine 1 Power",
+                "timestamp": 1636355400,
+                "power": 0.0986676923076923
+            },
+            {
+                "fieldName": "Turbine 1 Temperature",
+                "timestamp": 1636355400,
+                "power": 21.0733287333333
+            },
+            {
+                "fieldName": "Turbine 1 WindDir",
+                "timestamp": 1636355400,
+                "power": 115.8516464
+            },
+            {
+                "fieldName": "Turbine 1 WindSpeed",
+                "timestamp": 1636355400,
+                "power": 4.12056420666667
+            },
+            {
+                "fieldName": "Turbine 2 AirPres",
+                "timestamp": 1636355400,
+                "power": 945.388869230769
+            },
+            {
+                "fieldName": "Turbine 2 Power",
+                "timestamp": 1636355400,
+                "power": 0.0659300000833333
+            },
+            {
+                "fieldName": "Turbine 2 Temperature",
+                "timestamp": 1636355400,
+                "power": 21.1466644666667
+            },
+            {
+                "fieldName": "Turbine 2 WindDir",
+                "timestamp": 1636355400,
+                "power": 119.450851090909
+            },
+            {
+                "fieldName": "Turbine 2 WindSpeed",
+                "timestamp": 1636355400,
+                "power": 3.07348825833333
+            },
+            {
+                "fieldName": "Turbine 3 AirPres",
+                "timestamp": 1636355400,
+                "power": 930.718923529412
+            },
+            {
+                "fieldName": "Turbine 3 Power",
+                "timestamp": 1636355400,
+                "power": 0.0859424985625
+            },
+            {
+                "fieldName": "Turbine 3 Temperature",
+                "timestamp": 1636355400,
+                "power": 21.4571413571429
+            },
+            {
+                "fieldName": "Turbine 3 WindDir",
+                "timestamp": 1636355400,
+                "power": 109.462052533333
+            },
+            {
+                "fieldName": "Turbine 3 WindSpeed",
+                "timestamp": 1636355400,
+                "power": 3.28052389090909
+            },
+            {
+                "fieldName": "Turbine 4 AirPres",
+                "timestamp": 1636355400,
+                "power": 940.5145
+            },
+            {
+                "fieldName": "Turbine 4 Power",
+                "timestamp": 1636355400,
+                "power": 0.0525999990666667
+            },
+            {
+                "fieldName": "Turbine 4 Temperature",
+                "timestamp": 1636355400,
+                "power": 20.7000012857143
+            },
+            {
+                "fieldName": "Turbine 4 WindDir",
+                "timestamp": 1636355400,
+                "power": 119.593566357143
+            },
+            {
+                "fieldName": "Turbine 4 WindSpeed",
+                "timestamp": 1636355400,
+                "power": 3.1774057375
+            },
+            {
+                "fieldName": "Turbine 1 AirPres",
+                "timestamp": 1636356000,
+                "power": 943.0693
+            },
+            {
+                "fieldName": "Turbine 1 Power",
+                "timestamp": 1636356000,
+                "power": 0.079393333375
+            },
+            {
+                "fieldName": "Turbine 1 Temperature",
+                "timestamp": 1636356000,
+                "power": 20.7642855
+            },
+            {
+                "fieldName": "Turbine 1 WindDir",
+                "timestamp": 1636356000,
+                "power": 126.935561818182
+            },
+            {
+                "fieldName": "Turbine 1 WindSpeed",
+                "timestamp": 1636356000,
+                "power": 3.23150613846154
+            },
+            {
+                "fieldName": "Turbine 2 AirPres",
+                "timestamp": 1636356000,
+                "power": 945.35108
+            },
+            {
+                "fieldName": "Turbine 2 Power",
+                "timestamp": 1636356000,
+                "power": 0.0792359998
+            },
+            {
+                "fieldName": "Turbine 2 Temperature",
+                "timestamp": 1636356000,
+                "power": 20.6583340833333
+            },
+            {
+                "fieldName": "Turbine 2 WindDir",
+                "timestamp": 1636356000,
+                "power": 131.988224714286
+            },
+            {
+                "fieldName": "Turbine 2 WindSpeed",
+                "timestamp": 1636356000,
+                "power": 3.39970016428571
+            },
+            {
+                "fieldName": "Turbine 3 AirPres",
+                "timestamp": 1636356000,
+                "power": 930.6776
+            },
+            {
+                "fieldName": "Turbine 3 Power",
+                "timestamp": 1636356000,
+                "power": 0.168191112
+            },
+            {
+                "fieldName": "Turbine 3 Temperature",
+                "timestamp": 1636356000,
+                "power": 20.5285731428571
+            },
+            {
+                "fieldName": "Turbine 3 WindDir",
+                "timestamp": 1636356000,
+                "power": 114.081317833333
+            },
+            {
+                "fieldName": "Turbine 3 WindSpeed",
+                "timestamp": 1636356000,
+                "power": 4.12130588333333
+            },
+            {
+                "fieldName": "Turbine 4 AirPres",
+                "timestamp": 1636356000,
+                "power": 940.506702727273
+            },
+            {
+                "fieldName": "Turbine 4 Power",
+                "timestamp": 1636356000,
+                "power": 0.0822339396363636
+            },
+            {
+                "fieldName": "Turbine 4 Temperature",
+                "timestamp": 1636356000,
+                "power": 20.2400014
+            },
+            {
+                "fieldName": "Turbine 4 WindDir",
+                "timestamp": 1636356000,
+                "power": 114.737520857143
+            },
+            {
+                "fieldName": "Turbine 4 WindSpeed",
+                "timestamp": 1636356000,
+                "power": 3.40254758333333
+            },
+            {
+                "fieldName": "Turbine 1 AirPres",
+                "timestamp": 1636356600,
+                "power": 943.081
+            },
+            {
+                "fieldName": "Turbine 1 Power",
+                "timestamp": 1636356600,
+                "power": 0.0669799989
+            },
+            {
+                "fieldName": "Turbine 1 Temperature",
+                "timestamp": 1636356600,
+                "power": 20.1454564545455
+            },
+            {
+                "fieldName": "Turbine 1 WindDir",
+                "timestamp": 1636356600,
+                "power": 132.5529726
+            },
+            {
+                "fieldName": "Turbine 1 WindSpeed",
+                "timestamp": 1636356600,
+                "power": 3.56086074285714
+            },
+            {
+                "fieldName": "Turbine 2 AirPres",
+                "timestamp": 1636356600,
+                "power": 945.334884615384
+            },
+            {
+                "fieldName": "Turbine 2 Power",
+                "timestamp": 1636356600,
+                "power": 0.0387466665714286
+            },
+            {
+                "fieldName": "Turbine 2 Temperature",
+                "timestamp": 1636356600,
+                "power": 19.9090895454545
+            },
+            {
+                "fieldName": "Turbine 2 WindDir",
+                "timestamp": 1636356600,
+                "power": 134.864066153846
+            },
+            {
+                "fieldName": "Turbine 2 WindSpeed",
+                "timestamp": 1636356600,
+                "power": 2.9823677
+            },
+            {
+                "fieldName": "Turbine 3 AirPres",
+                "timestamp": 1636356600,
+                "power": 930.6776
+            },
+            {
+                "fieldName": "Turbine 3 Power",
+                "timestamp": 1636356600,
+                "power": 0.0917922235
+            },
+            {
+                "fieldName": "Turbine 3 Temperature",
+                "timestamp": 1636356600,
+                "power": 19.921426
+            },
+            {
+                "fieldName": "Turbine 3 WindDir",
+                "timestamp": 1636356600,
+                "power": 120.399999444444
+            },
+            {
+                "fieldName": "Turbine 3 WindSpeed",
+                "timestamp": 1636356600,
+                "power": 3.60460980666667
+            },
+            {
+                "fieldName": "Turbine 4 AirPres",
+                "timestamp": 1636356600,
+                "power": 940.4716075
+            },
+            {
+                "fieldName": "Turbine 4 Power",
+                "timestamp": 1636356600,
+                "power": 0.0674949995625
+            },
+            {
+                "fieldName": "Turbine 4 Temperature",
+                "timestamp": 1636356600,
+                "power": 19.5866648666667
+            },
+            {
+                "fieldName": "Turbine 4 WindDir",
+                "timestamp": 1636356600,
+                "power": 124.087745
+            },
+            {
+                "fieldName": "Turbine 4 WindSpeed",
+                "timestamp": 1636356600,
+                "power": 3.51616062307692
+            },
+            {
+                "fieldName": "Turbine 1 AirPres",
+                "timestamp": 1636357200,
+                "power": 943.04356
+            },
+            {
+                "fieldName": "Turbine 1 Power",
+                "timestamp": 1636357200,
+                "power": 0.114351111777778
+            },
+            {
+                "fieldName": "Turbine 1 Temperature",
+                "timestamp": 1636357200,
+                "power": 20.090905
+            },
+            {
+                "fieldName": "Turbine 1 WindDir",
+                "timestamp": 1636357200,
+                "power": 124.354704
+            },
+            {
+                "fieldName": "Turbine 1 WindSpeed",
+                "timestamp": 1636357200,
+                "power": 4.02840908181818
+            },
+            {
+                "fieldName": "Turbine 2 AirPres",
+                "timestamp": 1636357200,
+                "power": 945.269191666666
+            },
+            {
+                "fieldName": "Turbine 2 Power",
+                "timestamp": 1636357200,
+                "power": 0.0734593946363636
+            },
+            {
+                "fieldName": "Turbine 2 Temperature",
+                "timestamp": 1636357200,
+                "power": 19.7866658666667
+            },
+            {
+                "fieldName": "Turbine 2 WindDir",
+                "timestamp": 1636357200,
+                "power": 123.307845428571
+            },
+            {
+                "fieldName": "Turbine 2 WindSpeed",
+                "timestamp": 1636357200,
+                "power": 3.42500132727273
+            },
+            {
+                "fieldName": "Turbine 3 AirPres",
+                "timestamp": 1636357200,
+                "power": 930.610757142857
+            },
+            {
+                "fieldName": "Turbine 3 Power",
+                "timestamp": 1636357200,
+                "power": 0.133347406111111
+            },
+            {
+                "fieldName": "Turbine 3 Temperature",
+                "timestamp": 1636357200,
+                "power": 19.9166679166667
+            },
+            {
+                "fieldName": "Turbine 3 WindDir",
+                "timestamp": 1636357200,
+                "power": 108.833122571429
+            },
+            {
+                "fieldName": "Turbine 3 WindSpeed",
+                "timestamp": 1636357200,
+                "power": 4.08509985625
+            },
+            {
+                "fieldName": "Turbine 4 AirPres",
+                "timestamp": 1636357200,
+                "power": 940.424129411765
+            },
+            {
+                "fieldName": "Turbine 4 Power",
+                "timestamp": 1636357200,
+                "power": 0.0457284845136364
+            },
+            {
+                "fieldName": "Turbine 4 Temperature",
+                "timestamp": 1636357200,
+                "power": 19.6666646666667
+            },
+            {
+                "fieldName": "Turbine 4 WindDir",
+                "timestamp": 1636357200,
+                "power": 117.239443473684
+            },
+            {
+                "fieldName": "Turbine 4 WindSpeed",
+                "timestamp": 1636357200,
+                "power": 3.1738166
+            },
+            {
+                "fieldName": "Turbine 1 AirPres",
+                "timestamp": 1636357800,
+                "power": 943.0225
+            },
+            {
+                "fieldName": "Turbine 1 Power",
+                "timestamp": 1636357800,
+                "power": 0.10500799916
+            },
+            {
+                "fieldName": "Turbine 1 Temperature",
+                "timestamp": 1636357800,
+                "power": 20.3076923076923
+            },
+            {
+                "fieldName": "Turbine 1 WindDir",
+                "timestamp": 1636357800,
+                "power": 109.112287363636
+            },
+            {
+                "fieldName": "Turbine 1 WindSpeed",
+                "timestamp": 1636357800,
+                "power": 3.31165515
+            },
+            {
+                "fieldName": "Turbine 2 AirPres",
+                "timestamp": 1636357800,
+                "power": 945.2809
+            },
+            {
+                "fieldName": "Turbine 2 Power",
+                "timestamp": 1636357800,
+                "power": 0.00114999998833333
+            },
+            {
+                "fieldName": "Turbine 2 Temperature",
+                "timestamp": 1636357800,
+                "power": 20.5428543571429
+            },
+            {
+                "fieldName": "Turbine 2 WindDir",
+                "timestamp": 1636357800,
+                "power": 111.049726333333
+            },
+            {
+                "fieldName": "Turbine 2 WindSpeed",
+                "timestamp": 1636357800,
+                "power": 2.14963822727273
+            },
+            {
+                "fieldName": "Turbine 3 AirPres",
+                "timestamp": 1636357800,
+                "power": 930.5957175
+            },
+            {
+                "fieldName": "Turbine 3 Power",
+                "timestamp": 1636357800,
+                "power": 0.0630375750909091
+            },
+            {
+                "fieldName": "Turbine 3 Temperature",
+                "timestamp": 1636357800,
+                "power": 20.453848
+            },
+            {
+                "fieldName": "Turbine 3 WindDir",
+                "timestamp": 1636357800,
+                "power": 100.602984142857
+            },
+            {
+                "fieldName": "Turbine 3 WindSpeed",
+                "timestamp": 1636357800,
+                "power": 3.39954036666667
+            },
+            {
+                "fieldName": "Turbine 4 AirPres",
+                "timestamp": 1636357800,
+                "power": 940.409520769231
+            },
+            {
+                "fieldName": "Turbine 4 Power",
+                "timestamp": 1636357800,
+                "power": -0.0000426666666666667
+            },
+            {
+                "fieldName": "Turbine 4 Temperature",
+                "timestamp": 1636357800,
+                "power": 20.9882337058824
+            },
+            {
+                "fieldName": "Turbine 4 WindDir",
+                "timestamp": 1636357800,
+                "power": 142.933367818182
+            },
+            {
+                "fieldName": "Turbine 4 WindSpeed",
+                "timestamp": 1636357800,
+                "power": 1.293714688125
+            },
+            {
+                "fieldName": "Turbine 1 Power",
+                "timestamp": 1636358400,
+                "power": 0
+            },
+            {
+                "fieldName": "Turbine 2 AirPres",
+                "timestamp": 1636358400,
+                "power": 945.2809
+            },
+            {
+                "fieldName": "Turbine 2 Temperature",
+                "timestamp": 1636358400,
+                "power": 22.300003
+            },
+            {
+                "fieldName": "Turbine 2 WindSpeed",
+                "timestamp": 1636358400,
+                "power": 2.162633
+            },
+            {
+                "fieldName": "Turbine 3 AirPres",
+                "timestamp": 1636358400,
+                "power": 930.53723
+            },
+            {
+                "fieldName": "Turbine 3 Power",
+                "timestamp": 1636358400,
+                "power": 0.00036
+            },
+            {
+                "fieldName": "Turbine 3 Temperature",
+                "timestamp": 1636358400,
+                "power": 21.4500045
+            },
+            {
+                "fieldName": "Turbine 3 WindDir",
+                "timestamp": 1636358400,
+                "power": 56.57692
+            },
+            {
+                "fieldName": "Turbine 3 WindSpeed",
+                "timestamp": 1636358400,
+                "power": 1.7778953
+            },
+            {
+                "fieldName": "Turbine 4 AirPres",
+                "timestamp": 1636358400,
+                "power": 940.5067
+            },
+            {
+                "fieldName": "Turbine 4 Power",
+                "timestamp": 1636358400,
+                "power": 0
+            },
+            {
+                "fieldName": "Turbine 4 Temperature",
+                "timestamp": 1636358400,
+                "power": 21.699997
+            },
+            {
+                "fieldName": "Turbine 4 WindDir",
+                "timestamp": 1636358400,
+                "power": 130.10658
+            },
+            {
+                "fieldName": "Turbine 4 WindSpeed",
+                "timestamp": 1636358400,
+                "power": 1.2008823
+            }
+        ]
+    }
+    ,
+    {
+        "fieldId": 46,
+        "fieldName": "ABK Çesme Res",
+        "values": [
+            {
+                "fieldName": "Turbine 1 AirPres",
+                "timestamp": 1636351200,
+                "power": 0
+            },
+            {
+                "fieldName": "Turbine 1 Power",
+                "timestamp": 1636351200,
+                "power": 0
+            },
+            {
+                "fieldName": "Turbine 1 Temperature",
+                "timestamp": 1636351200,
+                "power": 0
+            },
+            {
+                "fieldName": "Turbine 1 WindDir",
+                "timestamp": 1636351200,
+                "power": 200.933598857143
+            },
+            {
+                "fieldName": "Turbine 1 WindSpeed",
+                "timestamp": 1636351200,
+                "power": 3.53067191333333
+            },
+            {
+                "fieldName": "Turbine 2 AirPres",
+                "timestamp": 1636351200,
+                "power": 0
+            },
+            {
+                "fieldName": "Turbine 2 Power",
+                "timestamp": 1636351200,
+                "power": 0
+            },
+            {
+                "fieldName": "Turbine 2 Temperature",
+                "timestamp": 1636351200,
+                "power": 0
+            },
+            {
+                "fieldName": "Turbine 2 WindDir",
+                "timestamp": 1636351200,
+                "power": 0
+            },
+            {
+                "fieldName": "Turbine 2 WindSpeed",
+                "timestamp": 1636351200,
+                "power": 0
+            },
+            {
+                "fieldName": "Turbine 3 AirPres",
+                "timestamp": 1636351200,
+                "power": 990.372395172414
+            },
+            {
+                "fieldName": "Turbine 3 Power",
+                "timestamp": 1636351200,
+                "power": 0
+            },
+            {
+                "fieldName": "Turbine 3 Temperature",
+                "timestamp": 1636351200,
+                "power": 16.9347698974359
+            },
+            {
+                "fieldName": "Turbine 3 WindDir",
+                "timestamp": 1636351200,
+                "power": 243.851354516129
+            },
+            {
+                "fieldName": "Turbine 3 WindSpeed",
+                "timestamp": 1636351200,
+                "power": 3.58989205714286
+            },
+            {
+                "fieldName": "Turbine 4 AirPres",
+                "timestamp": 1636351200,
+                "power": 988.634227631579
+            },
+            {
+                "fieldName": "Turbine 4 Power",
+                "timestamp": 1636351200,
+                "power": 0
+            },
+            {
+                "fieldName": "Turbine 4 Temperature",
+                "timestamp": 1636351200,
+                "power": 17.4011108888889
+            },
+            {
+                "fieldName": "Turbine 4 WindDir",
+                "timestamp": 1636351200,
+                "power": 170.210860714286
+            },
+            {
+                "fieldName": "Turbine 4 WindSpeed",
+                "timestamp": 1636351200,
+                "power": 3.33283553636364
+            },
+            {
+                "fieldName": "Turbine 5 AirPres",
+                "timestamp": 1636351200,
+                "power": 989.1246425
+            },
+            {
+                "fieldName": "Turbine 5 Power",
+                "timestamp": 1636351200,
+                "power": 0
+            },
+            {
+                "fieldName": "Turbine 5 Temperature",
+                "timestamp": 1636351200,
+                "power": 17.06649953125
+            },
+            {
+                "fieldName": "Turbine 5 WindDir",
+                "timestamp": 1636351200,
+                "power": 157.19125125
+            },
+            {
+                "fieldName": "Turbine 5 WindSpeed",
+                "timestamp": 1636351200,
+                "power": 3.06277660540541
+            },
+            {
+                "fieldName": "Turbine 6 AirPres",
+                "timestamp": 1636351200,
+                "power": 970.822242647059
+            },
+            {
+                "fieldName": "Turbine 6 Power",
+                "timestamp": 1636351200,
+                "power": 0
+            },
+            {
+                "fieldName": "Turbine 6 Temperature",
+                "timestamp": 1636351200,
+                "power": 16.7145555555556
+            },
+            {
+                "fieldName": "Turbine 6 WindDir",
+                "timestamp": 1636351200,
+                "power": 246.799272727273
+            },
+            {
+                "fieldName": "Turbine 6 WindSpeed",
+                "timestamp": 1636351200,
+                "power": 3.12907576451613
+            },
+            {
+                "fieldName": "Turbine 1 AirPres",
+                "timestamp": 1636351800,
+                "power": 0
+            },
+            {
+                "fieldName": "Turbine 1 Power",
+                "timestamp": 1636351800,
+                "power": 0
+            },
+            {
+                "fieldName": "Turbine 1 Temperature",
+                "timestamp": 1636351800,
+                "power": 0
+            },
+            {
+                "fieldName": "Turbine 1 WindDir",
+                "timestamp": 1636351800,
+                "power": 190.51926
+            },
+            {
+                "fieldName": "Turbine 1 WindSpeed",
+                "timestamp": 1636351800,
+                "power": 3.019231864
+            },
+            {
+                "fieldName": "Turbine 2 AirPres",
+                "timestamp": 1636351800,
+                "power": 0
+            },
+            {
+                "fieldName": "Turbine 2 Power",
+                "timestamp": 1636351800,
+                "power": 0
+            },
+            {
+                "fieldName": "Turbine 2 Temperature",
+                "timestamp": 1636351800,
+                "power": 0
+            },
+            {
+                "fieldName": "Turbine 2 WindDir",
+                "timestamp": 1636351800,
+                "power": 0
+            },
+            {
+                "fieldName": "Turbine 2 WindSpeed",
+                "timestamp": 1636351800,
+                "power": 0
+            },
+            {
+                "fieldName": "Turbine 3 AirPres",
+                "timestamp": 1636351800,
+                "power": 990.453805405405
+            },
+            {
+                "fieldName": "Turbine 3 Power",
+                "timestamp": 1636351800,
+                "power": 0.000417333333333333
+            },
+            {
+                "fieldName": "Turbine 3 Temperature",
+                "timestamp": 1636351800,
+                "power": 17.077371
+            },
+            {
+                "fieldName": "Turbine 3 WindDir",
+                "timestamp": 1636351800,
+                "power": 232.845576666667
+            },
+            {
+                "fieldName": "Turbine 3 WindSpeed",
+                "timestamp": 1636351800,
+                "power": 3.18647975882353
+            },
+            {
+                "fieldName": "Turbine 4 AirPres",
+                "timestamp": 1636351800,
+                "power": 988.681157428572
+            },
+            {
+                "fieldName": "Turbine 4 Power",
+                "timestamp": 1636351800,
+                "power": 0.0101788889722222
+            },
+            {
+                "fieldName": "Turbine 4 Temperature",
+                "timestamp": 1636351800,
+                "power": 17.0403642121212
+            },
+            {
+                "fieldName": "Turbine 4 WindDir",
+                "timestamp": 1636351800,
+                "power": 164.192649189189
+            },
+            {
+                "fieldName": "Turbine 4 WindSpeed",
+                "timestamp": 1636351800,
+                "power": 3.40766061142857
+            },
+            {
+                "fieldName": "Turbine 5 AirPres",
+                "timestamp": 1636351800,
+                "power": 989.162976829268
+            },
+            {
+                "fieldName": "Turbine 5 Power",
+                "timestamp": 1636351800,
+                "power": 0
+            },
+            {
+                "fieldName": "Turbine 5 Temperature",
+                "timestamp": 1636351800,
+                "power": 17.0495280588235
+            },
+            {
+                "fieldName": "Turbine 5 WindDir",
+                "timestamp": 1636351800,
+                "power": 144.101295588235
+            },
+            {
+                "fieldName": "Turbine 5 WindSpeed",
+                "timestamp": 1636351800,
+                "power": 2.76456550571429
+            },
+            {
+                "fieldName": "Turbine 6 AirPres",
+                "timestamp": 1636351800,
+                "power": 970.852011764706
+            },
+            {
+                "fieldName": "Turbine 6 Power",
+                "timestamp": 1636351800,
+                "power": 0.00474181817878788
+            },
+            {
+                "fieldName": "Turbine 6 Temperature",
+                "timestamp": 1636351800,
+                "power": 16.7611409142857
+            },
+            {
+                "fieldName": "Turbine 6 WindDir",
+                "timestamp": 1636351800,
+                "power": 232.906051025641
+            },
+            {
+                "fieldName": "Turbine 6 WindSpeed",
+                "timestamp": 1636351800,
+                "power": 2.98424406111111
+            },
+            {
+                "fieldName": "Turbine 1 AirPres",
+                "timestamp": 1636352400,
+                "power": 0
+            },
+            {
+                "fieldName": "Turbine 1 Power",
+                "timestamp": 1636352400,
+                "power": 0
+            },
+            {
+                "fieldName": "Turbine 1 Temperature",
+                "timestamp": 1636352400,
+                "power": 0
+            },
+            {
+                "fieldName": "Turbine 1 WindDir",
+                "timestamp": 1636352400,
+                "power": 197.304003333333
+            },
+            {
+                "fieldName": "Turbine 1 WindSpeed",
+                "timestamp": 1636352400,
+                "power": 1.87614248269231
+            },
+            {
+                "fieldName": "Turbine 2 AirPres",
+                "timestamp": 1636352400,
+                "power": 899.505394090909
+            },
+            {
+                "fieldName": "Turbine 2 Power",
+                "timestamp": 1636352400,
+                "power": 0
+            },
+            {
+                "fieldName": "Turbine 2 Temperature",
+                "timestamp": 1636352400,
+                "power": 15.3709628518519
+            },
+            {
+                "fieldName": "Turbine 2 WindDir",
+                "timestamp": 1636352400,
+                "power": 157.370919615385
+            },
+            {
+                "fieldName": "Turbine 2 WindSpeed",
+                "timestamp": 1636352400,
+                "power": 3.05237308214286
+            },
+            {
+                "fieldName": "Turbine 3 AirPres",
+                "timestamp": 1636352400,
+                "power": 990.484985882353
+            },
+            {
+                "fieldName": "Turbine 3 Power",
+                "timestamp": 1636352400,
+                "power": 0.00190627449705882
+            },
+            {
+                "fieldName": "Turbine 3 Temperature",
+                "timestamp": 1636352400,
+                "power": 17.2187065588235
+            },
+            {
+                "fieldName": "Turbine 3 WindDir",
+                "timestamp": 1636352400,
+                "power": 238.875600666667
+            },
+            {
+                "fieldName": "Turbine 3 WindSpeed",
+                "timestamp": 1636352400,
+                "power": 3.02561959794118
+            },
+            {
+                "fieldName": "Turbine 4 AirPres",
+                "timestamp": 1636352400,
+                "power": 988.731128484848
+            },
+            {
+                "fieldName": "Turbine 4 Power",
+                "timestamp": 1636352400,
+                "power": 0.00249414140393939
+            },
+            {
+                "fieldName": "Turbine 4 Temperature",
+                "timestamp": 1636352400,
+                "power": 17.1812122727273
+            },
+            {
+                "fieldName": "Turbine 4 WindDir",
+                "timestamp": 1636352400,
+                "power": 174.504499375
+            },
+            {
+                "fieldName": "Turbine 4 WindSpeed",
+                "timestamp": 1636352400,
+                "power": 2.49481386428571
+            },
+            {
+                "fieldName": "Turbine 5 AirPres",
+                "timestamp": 1636352400,
+                "power": 989.239894242424
+            },
+            {
+                "fieldName": "Turbine 5 Power",
+                "timestamp": 1636352400,
+                "power": 0
+            },
+            {
+                "fieldName": "Turbine 5 Temperature",
+                "timestamp": 1636352400,
+                "power": 17.2992002
+            },
+            {
+                "fieldName": "Turbine 5 WindDir",
+                "timestamp": 1636352400,
+                "power": 145.575887142857
+            },
+            {
+                "fieldName": "Turbine 5 WindSpeed",
+                "timestamp": 1636352400,
+                "power": 2.6883743483871
+            },
+            {
+                "fieldName": "Turbine 6 AirPres",
+                "timestamp": 1636352400,
+                "power": 970.887355555555
+            },
+            {
+                "fieldName": "Turbine 6 Power",
+                "timestamp": 1636352400,
+                "power": 0.000192727272727273
+            },
+            {
+                "fieldName": "Turbine 6 Temperature",
+                "timestamp": 1636352400,
+                "power": 16.95574965625
+            },
+            {
+                "fieldName": "Turbine 6 WindDir",
+                "timestamp": 1636352400,
+                "power": 233.36787496875
+            },
+            {
+                "fieldName": "Turbine 6 WindSpeed",
+                "timestamp": 1636352400,
+                "power": 2.55368268787879
+            },
+            {
+                "fieldName": "Turbine 1 AirPres",
+                "timestamp": 1636353000,
+                "power": 0
+            },
+            {
+                "fieldName": "Turbine 1 Power",
+                "timestamp": 1636353000,
+                "power": 0
+            },
+            {
+                "fieldName": "Turbine 1 Temperature",
+                "timestamp": 1636353000,
+                "power": 0
+            },
+            {
+                "fieldName": "Turbine 1 WindDir",
+                "timestamp": 1636353000,
+                "power": 195.075228064516
+            },
+            {
+                "fieldName": "Turbine 1 WindSpeed",
+                "timestamp": 1636353000,
+                "power": 2.63562315925926
+            },
+            {
+                "fieldName": "Turbine 2 AirPres",
+                "timestamp": 1636353000,
+                "power": 989.378160454546
+            },
+            {
+                "fieldName": "Turbine 2 Power",
+                "timestamp": 1636353000,
+                "power": 0
+            },
+            {
+                "fieldName": "Turbine 2 Temperature",
+                "timestamp": 1636353000,
+                "power": 17.4657343666667
+            },
+            {
+                "fieldName": "Turbine 2 WindDir",
+                "timestamp": 1636353000,
+                "power": 183.009038888889
+            },
+            {
+                "fieldName": "Turbine 2 WindSpeed",
+                "timestamp": 1636353000,
+                "power": 3.16850838064516
+            },
+            {
+                "fieldName": "Turbine 3 AirPres",
+                "timestamp": 1636353000,
+                "power": 990.463333157895
+            },
+            {
+                "fieldName": "Turbine 3 Power",
+                "timestamp": 1636353000,
+                "power": 0
+            },
+            {
+                "fieldName": "Turbine 3 Temperature",
+                "timestamp": 1636353000,
+                "power": 17.4667068823529
+            },
+            {
+                "fieldName": "Turbine 3 WindDir",
+                "timestamp": 1636353000,
+                "power": 240.662546666667
+            },
+            {
+                "fieldName": "Turbine 3 WindSpeed",
+                "timestamp": 1636353000,
+                "power": 3.30089043636364
+            },
+            {
+                "fieldName": "Turbine 4 AirPres",
+                "timestamp": 1636353000,
+                "power": 988.730202424242
+            },
+            {
+                "fieldName": "Turbine 4 Power",
+                "timestamp": 1636353000,
+                "power": 0
+            },
+            {
+                "fieldName": "Turbine 4 Temperature",
+                "timestamp": 1636353000,
+                "power": 17.3692416896552
+            },
+            {
+                "fieldName": "Turbine 4 WindDir",
+                "timestamp": 1636353000,
+                "power": 168.982178181818
+            },
+            {
+                "fieldName": "Turbine 4 WindSpeed",
+                "timestamp": 1636353000,
+                "power": 3.20225880606061
+            },
+            {
+                "fieldName": "Turbine 5 AirPres",
+                "timestamp": 1636353000,
+                "power": 989.226136
+            },
+            {
+                "fieldName": "Turbine 5 Power",
+                "timestamp": 1636353000,
+                "power": 0
+            },
+            {
+                "fieldName": "Turbine 5 Temperature",
+                "timestamp": 1636353000,
+                "power": 17.3757336
+            },
+            {
+                "fieldName": "Turbine 5 WindDir",
+                "timestamp": 1636353000,
+                "power": 149.3585021875
+            },
+            {
+                "fieldName": "Turbine 5 WindSpeed",
+                "timestamp": 1636353000,
+                "power": 2.75926320882353
+            },
+            {
+                "fieldName": "Turbine 6 AirPres",
+                "timestamp": 1636353000,
+                "power": 970.880264473684
+            },
+            {
+                "fieldName": "Turbine 6 Power",
+                "timestamp": 1636353000,
+                "power": 0
+            },
+            {
+                "fieldName": "Turbine 6 Temperature",
+                "timestamp": 1636353000,
+                "power": 17.1908717692308
+            },
+            {
+                "fieldName": "Turbine 6 WindDir",
+                "timestamp": 1636353000,
+                "power": 246.096329722222
+            },
+            {
+                "fieldName": "Turbine 6 WindSpeed",
+                "timestamp": 1636353000,
+                "power": 3.20801864242424
+            },
+            {
+                "fieldName": "Turbine 1 AirPres",
+                "timestamp": 1636353600,
+                "power": 0
+            },
+            {
+                "fieldName": "Turbine 1 Power",
+                "timestamp": 1636353600,
+                "power": 0
+            },
+            {
+                "fieldName": "Turbine 1 Temperature",
+                "timestamp": 1636353600,
+                "power": 0
+            },
+            {
+                "fieldName": "Turbine 1 WindDir",
+                "timestamp": 1636353600,
+                "power": 195.199859285714
+            },
+            {
+                "fieldName": "Turbine 1 WindSpeed",
+                "timestamp": 1636353600,
+                "power": 1.96927983352941
+            },
+            {
+                "fieldName": "Turbine 2 AirPres",
+                "timestamp": 1636353600,
+                "power": 989.473856875
+            },
+            {
+                "fieldName": "Turbine 2 Power",
+                "timestamp": 1636353600,
+                "power": 0
+            },
+            {
+                "fieldName": "Turbine 2 Temperature",
+                "timestamp": 1636353600,
+                "power": 17.5179994615385
+            },
+            {
+                "fieldName": "Turbine 2 WindDir",
+                "timestamp": 1636353600,
+                "power": 201.532003636364
+            },
+            {
+                "fieldName": "Turbine 2 WindSpeed",
+                "timestamp": 1636353600,
+                "power": 3.23570133448276
+            },
+            {
+                "fieldName": "Turbine 3 AirPres",
+                "timestamp": 1636353600,
+                "power": 990.527094736842
+            },
+            {
+                "fieldName": "Turbine 3 Power",
+                "timestamp": 1636353600,
+                "power": 0.0236717459142857
+            },
+            {
+                "fieldName": "Turbine 3 Temperature",
+                "timestamp": 1636353600,
+                "power": 17.4141067105263
+            },
+            {
+                "fieldName": "Turbine 3 WindDir",
+                "timestamp": 1636353600,
+                "power": 239.4352
+            },
+            {
+                "fieldName": "Turbine 3 WindSpeed",
+                "timestamp": 1636353600,
+                "power": 3.64073967894737
+            },
+            {
+                "fieldName": "Turbine 4 AirPres",
+                "timestamp": 1636353600,
+                "power": 988.819345675676
+            },
+            {
+                "fieldName": "Turbine 4 Power",
+                "timestamp": 1636353600,
+                "power": 0.0795326490769231
+            },
+            {
+                "fieldName": "Turbine 4 Temperature",
+                "timestamp": 1636353600,
+                "power": 17.1924759761905
+            },
+            {
+                "fieldName": "Turbine 4 WindDir",
+                "timestamp": 1636353600,
+                "power": 167.042569761905
+            },
+            {
+                "fieldName": "Turbine 4 WindSpeed",
+                "timestamp": 1636353600,
+                "power": 4.15164244333333
+            },
+            {
+                "fieldName": "Turbine 5 AirPres",
+                "timestamp": 1636353600,
+                "power": 989.305650238095
+            },
+            {
+                "fieldName": "Turbine 5 Power",
+                "timestamp": 1636353600,
+                "power": 0
+            },
+            {
+                "fieldName": "Turbine 5 Temperature",
+                "timestamp": 1636353600,
+                "power": 17.2977297027027
+            },
+            {
+                "fieldName": "Turbine 5 WindDir",
+                "timestamp": 1636353600,
+                "power": 155.1111005
+            },
+            {
+                "fieldName": "Turbine 5 WindSpeed",
+                "timestamp": 1636353600,
+                "power": 2.32822798095238
+            },
+            {
+                "fieldName": "Turbine 6 AirPres",
+                "timestamp": 1636353600,
+                "power": 970.917727380952
+            },
+            {
+                "fieldName": "Turbine 6 Power",
+                "timestamp": 1636353600,
+                "power": 0.123775999428571
+            },
+            {
+                "fieldName": "Turbine 6 Temperature",
+                "timestamp": 1636353600,
+                "power": 16.8415565
+            },
+            {
+                "fieldName": "Turbine 6 WindDir",
+                "timestamp": 1636353600,
+                "power": 240.010173863636
+            },
+            {
+                "fieldName": "Turbine 6 WindSpeed",
+                "timestamp": 1636353600,
+                "power": 4.28929604871795
+            },
+            {
+                "fieldName": "Turbine 1 AirPres",
+                "timestamp": 1636354200,
+                "power": 0
+            },
+            {
+                "fieldName": "Turbine 1 Power",
+                "timestamp": 1636354200,
+                "power": 0
+            },
+            {
+                "fieldName": "Turbine 1 Temperature",
+                "timestamp": 1636354200,
+                "power": 0
+            },
+            {
+                "fieldName": "Turbine 1 WindDir",
+                "timestamp": 1636354200,
+                "power": 223.562636285714
+            },
+            {
+                "fieldName": "Turbine 1 WindSpeed",
+                "timestamp": 1636354200,
+                "power": 2.13756534392857
+            },
+            {
+                "fieldName": "Turbine 2 AirPres",
+                "timestamp": 1636354200,
+                "power": 989.623645
+            },
+            {
+                "fieldName": "Turbine 2 Power",
+                "timestamp": 1636354200,
+                "power": 0.020320416625
+            },
+            {
+                "fieldName": "Turbine 2 Temperature",
+                "timestamp": 1636354200,
+                "power": 17.5051417142857
+            },
+            {
+                "fieldName": "Turbine 2 WindDir",
+                "timestamp": 1636354200,
+                "power": 205.194668717949
+            },
+            {
+                "fieldName": "Turbine 2 WindSpeed",
+                "timestamp": 1636354200,
+                "power": 3.66535466666667
+            },
+            {
+                "fieldName": "Turbine 3 AirPres",
+                "timestamp": 1636354200,
+                "power": 990.695542380952
+            },
+            {
+                "fieldName": "Turbine 3 Power",
+                "timestamp": 1636354200,
+                "power": 0.0361470087230769
+            },
+            {
+                "fieldName": "Turbine 3 Temperature",
+                "timestamp": 1636354200,
+                "power": 17.370061030303
+            },
+            {
+                "fieldName": "Turbine 3 WindDir",
+                "timestamp": 1636354200,
+                "power": 246.796587317073
+            },
+            {
+                "fieldName": "Turbine 3 WindSpeed",
+                "timestamp": 1636354200,
+                "power": 3.66559634722222
+            },
+            {
+                "fieldName": "Turbine 4 AirPres",
+                "timestamp": 1636354200,
+                "power": 988.955040666667
+            },
+            {
+                "fieldName": "Turbine 4 Power",
+                "timestamp": 1636354200,
+                "power": 0.030583783972973
+            },
+            {
+                "fieldName": "Turbine 4 Temperature",
+                "timestamp": 1636354200,
+                "power": 17.2277954615385
+            },
+            {
+                "fieldName": "Turbine 4 WindDir",
+                "timestamp": 1636354200,
+                "power": 179.499290588235
+            },
+            {
+                "fieldName": "Turbine 4 WindSpeed",
+                "timestamp": 1636354200,
+                "power": 3.01979859625
+            },
+            {
+                "fieldName": "Turbine 5 AirPres",
+                "timestamp": 1636354200,
+                "power": 989.414697222222
+            },
+            {
+                "fieldName": "Turbine 5 Power",
+                "timestamp": 1636354200,
+                "power": 0.0235646848162162
+            },
+            {
+                "fieldName": "Turbine 5 Temperature",
+                "timestamp": 1636354200,
+                "power": 17.1734447222222
+            },
+            {
+                "fieldName": "Turbine 5 WindDir",
+                "timestamp": 1636354200,
+                "power": 169.675772
+            },
+            {
+                "fieldName": "Turbine 5 WindSpeed",
+                "timestamp": 1636354200,
+                "power": 3.91453148823529
+            },
+            {
+                "fieldName": "Turbine 6 AirPres",
+                "timestamp": 1636354200,
+                "power": 971.0338725
+            },
+            {
+                "fieldName": "Turbine 6 Power",
+                "timestamp": 1636354200,
+                "power": 0.133918198756757
+            },
+            {
+                "fieldName": "Turbine 6 Temperature",
+                "timestamp": 1636354200,
+                "power": 16.7563228108108
+            },
+            {
+                "fieldName": "Turbine 6 WindDir",
+                "timestamp": 1636354200,
+                "power": 243.998916216216
+            },
+            {
+                "fieldName": "Turbine 6 WindSpeed",
+                "timestamp": 1636354200,
+                "power": 4.31483319473684
+            },
+            {
+                "fieldName": "Turbine 1 AirPres",
+                "timestamp": 1636354800,
+                "power": 0
+            },
+            {
+                "fieldName": "Turbine 1 Power",
+                "timestamp": 1636354800,
+                "power": 0
+            },
+            {
+                "fieldName": "Turbine 1 Temperature",
+                "timestamp": 1636354800,
+                "power": 0
+            },
+            {
+                "fieldName": "Turbine 1 WindDir",
+                "timestamp": 1636354800,
+                "power": 228.069822121212
+            },
+            {
+                "fieldName": "Turbine 1 WindSpeed",
+                "timestamp": 1636354800,
+                "power": 1.86338755
+            },
+            {
+                "fieldName": "Turbine 2 AirPres",
+                "timestamp": 1636354800,
+                "power": 989.612532820513
+            },
+            {
+                "fieldName": "Turbine 2 Power",
+                "timestamp": 1636354800,
+                "power": 0.0008514815
+            },
+            {
+                "fieldName": "Turbine 2 Temperature",
+                "timestamp": 1636354800,
+                "power": 17.5241130857143
+            },
+            {
+                "fieldName": "Turbine 2 WindDir",
+                "timestamp": 1636354800,
+                "power": 204.80459975
+            },
+            {
+                "fieldName": "Turbine 2 WindSpeed",
+                "timestamp": 1636354800,
+                "power": 2.78325187837838
+            },
+            {
+                "fieldName": "Turbine 3 AirPres",
+                "timestamp": 1636354800,
+                "power": 990.702462702703
+            },
+            {
+                "fieldName": "Turbine 3 Power",
+                "timestamp": 1636354800,
+                "power": 0.00141398376487805
+            },
+            {
+                "fieldName": "Turbine 3 Temperature",
+                "timestamp": 1636354800,
+                "power": 17.4276094390244
+            },
+            {
+                "fieldName": "Turbine 3 WindDir",
+                "timestamp": 1636354800,
+                "power": 254.38610475
+            },
+            {
+                "fieldName": "Turbine 3 WindSpeed",
+                "timestamp": 1636354800,
+                "power": 2.92895564210526
+            },
+            {
+                "fieldName": "Turbine 4 AirPres",
+                "timestamp": 1636354800,
+                "power": 988.961425365854
+            },
+            {
+                "fieldName": "Turbine 4 Power",
+                "timestamp": 1636354800,
+                "power": 0
+            },
+            {
+                "fieldName": "Turbine 4 Temperature",
+                "timestamp": 1636354800,
+                "power": 17.3570524736842
+            },
+            {
+                "fieldName": "Turbine 4 WindDir",
+                "timestamp": 1636354800,
+                "power": 191.93814974359
+            },
+            {
+                "fieldName": "Turbine 4 WindSpeed",
+                "timestamp": 1636354800,
+                "power": 2.52790288157895
+            },
+            {
+                "fieldName": "Turbine 5 AirPres",
+                "timestamp": 1636354800,
+                "power": 989.41734027027
+            },
+            {
+                "fieldName": "Turbine 5 Power",
+                "timestamp": 1636354800,
+                "power": 0.0393243140147059
+            },
+            {
+                "fieldName": "Turbine 5 Temperature",
+                "timestamp": 1636354800,
+                "power": 17.1293677631579
+            },
+            {
+                "fieldName": "Turbine 5 WindDir",
+                "timestamp": 1636354800,
+                "power": 166.0157025
+            },
+            {
+                "fieldName": "Turbine 5 WindSpeed",
+                "timestamp": 1636354800,
+                "power": 3.21411297948718
+            },
+            {
+                "fieldName": "Turbine 6 AirPres",
+                "timestamp": 1636354800,
+                "power": 971.083186666667
+            },
+            {
+                "fieldName": "Turbine 6 Power",
+                "timestamp": 1636354800,
+                "power": 0.0357641267102381
+            },
+            {
+                "fieldName": "Turbine 6 Temperature",
+                "timestamp": 1636354800,
+                "power": 16.8390224666667
+            },
+            {
+                "fieldName": "Turbine 6 WindDir",
+                "timestamp": 1636354800,
+                "power": 246.380568809524
+            },
+            {
+                "fieldName": "Turbine 6 WindSpeed",
+                "timestamp": 1636354800,
+                "power": 3.45226048157895
+            },
+            {
+                "fieldName": "Turbine 1 AirPres",
+                "timestamp": 1636355400,
+                "power": 0
+            },
+            {
+                "fieldName": "Turbine 1 Power",
+                "timestamp": 1636355400,
+                "power": 0.00291768130434783
+            },
+            {
+                "fieldName": "Turbine 1 Temperature",
+                "timestamp": 1636355400,
+                "power": 0
+            },
+            {
+                "fieldName": "Turbine 1 WindDir",
+                "timestamp": 1636355400,
+                "power": 225.3070444
+            },
+            {
+                "fieldName": "Turbine 1 WindSpeed",
+                "timestamp": 1636355400,
+                "power": 2.99586091153846
+            },
+            {
+                "fieldName": "Turbine 2 AirPres",
+                "timestamp": 1636355400,
+                "power": 989.648898076923
+            },
+            {
+                "fieldName": "Turbine 2 Power",
+                "timestamp": 1636355400,
+                "power": 0
+            },
+            {
+                "fieldName": "Turbine 2 Temperature",
+                "timestamp": 1636355400,
+                "power": 17.6410326129032
+            },
+            {
+                "fieldName": "Turbine 2 WindDir",
+                "timestamp": 1636355400,
+                "power": 215.663859285714
+            },
+            {
+                "fieldName": "Turbine 2 WindSpeed",
+                "timestamp": 1636355400,
+                "power": 2.52131139677419
+            },
+            {
+                "fieldName": "Turbine 3 AirPres",
+                "timestamp": 1636355400,
+                "power": 990.74558
+            },
+            {
+                "fieldName": "Turbine 3 Power",
+                "timestamp": 1636355400,
+                "power": 0
+            },
+            {
+                "fieldName": "Turbine 3 Temperature",
+                "timestamp": 1636355400,
+                "power": 17.4813334848485
+            },
+            {
+                "fieldName": "Turbine 3 WindDir",
+                "timestamp": 1636355400,
+                "power": 268.042325806452
+            },
+            {
+                "fieldName": "Turbine 3 WindSpeed",
+                "timestamp": 1636355400,
+                "power": 3.07777606666667
+            },
+            {
+                "fieldName": "Turbine 4 AirPres",
+                "timestamp": 1636355400,
+                "power": 988.991779142857
+            },
+            {
+                "fieldName": "Turbine 4 Power",
+                "timestamp": 1636355400,
+                "power": 0
+            },
+            {
+                "fieldName": "Turbine 4 Temperature",
+                "timestamp": 1636355400,
+                "power": 17.4725404054054
+            },
+            {
+                "fieldName": "Turbine 4 WindDir",
+                "timestamp": 1636355400,
+                "power": 193.955765142857
+            },
+            {
+                "fieldName": "Turbine 4 WindSpeed",
+                "timestamp": 1636355400,
+                "power": 1.83234914368421
+            },
+            {
+                "fieldName": "Turbine 5 AirPres",
+                "timestamp": 1636355400,
+                "power": 989.434776842105
+            },
+            {
+                "fieldName": "Turbine 5 Power",
+                "timestamp": 1636355400,
+                "power": 0.0697992796397297
+            },
+            {
+                "fieldName": "Turbine 5 Temperature",
+                "timestamp": 1636355400,
+                "power": 16.9781620540541
+            },
+            {
+                "fieldName": "Turbine 5 WindDir",
+                "timestamp": 1636355400,
+                "power": 166.954841578947
+            },
+            {
+                "fieldName": "Turbine 5 WindSpeed",
+                "timestamp": 1636355400,
+                "power": 3.87365
+            },
+            {
+                "fieldName": "Turbine 6 AirPres",
+                "timestamp": 1636355400,
+                "power": 971.121105
+            },
+            {
+                "fieldName": "Turbine 6 Power",
+                "timestamp": 1636355400,
+                "power": 0.0663966675722222
+            },
+            {
+                "fieldName": "Turbine 6 Temperature",
+                "timestamp": 1636355400,
+                "power": 16.8389192972973
+            },
+            {
+                "fieldName": "Turbine 6 WindDir",
+                "timestamp": 1636355400,
+                "power": 253.055291764706
+            },
+            {
+                "fieldName": "Turbine 6 WindSpeed",
+                "timestamp": 1636355400,
+                "power": 3.72416118292683
+            },
+            {
+                "fieldName": "Turbine 1 AirPres",
+                "timestamp": 1636356000,
+                "power": 0
+            },
+            {
+                "fieldName": "Turbine 1 Power",
+                "timestamp": 1636356000,
+                "power": 0.114141568529412
+            },
+            {
+                "fieldName": "Turbine 1 Temperature",
+                "timestamp": 1636356000,
+                "power": 0
+            },
+            {
+                "fieldName": "Turbine 1 WindDir",
+                "timestamp": 1636356000,
+                "power": 214.065938484848
+            },
+            {
+                "fieldName": "Turbine 1 WindSpeed",
+                "timestamp": 1636356000,
+                "power": 4.30122100294118
+            },
+            {
+                "fieldName": "Turbine 2 AirPres",
+                "timestamp": 1636356000,
+                "power": 989.723196756757
+            },
+            {
+                "fieldName": "Turbine 2 Power",
+                "timestamp": 1636356000,
+                "power": 0
+            },
+            {
+                "fieldName": "Turbine 2 Temperature",
+                "timestamp": 1636356000,
+                "power": 17.7309680322581
+            },
+            {
+                "fieldName": "Turbine 2 WindDir",
+                "timestamp": 1636356000,
+                "power": 223.779110740741
+            },
+            {
+                "fieldName": "Turbine 2 WindSpeed",
+                "timestamp": 1636356000,
+                "power": 2.71554277888889
+            },
+            {
+                "fieldName": "Turbine 3 AirPres",
+                "timestamp": 1636356000,
+                "power": 990.8309535
+            },
+            {
+                "fieldName": "Turbine 3 Power",
+                "timestamp": 1636356000,
+                "power": 0.0516237034722222
+            },
+            {
+                "fieldName": "Turbine 3 Temperature",
+                "timestamp": 1636356000,
+                "power": 17.5164558285714
+            },
+            {
+                "fieldName": "Turbine 3 WindDir",
+                "timestamp": 1636356000,
+                "power": 263.152245
+            },
+            {
+                "fieldName": "Turbine 3 WindSpeed",
+                "timestamp": 1636356000,
+                "power": 3.60020689302326
+            },
+            {
+                "fieldName": "Turbine 4 AirPres",
+                "timestamp": 1636356000,
+                "power": 989.152327727272
+            },
+            {
+                "fieldName": "Turbine 4 Power",
+                "timestamp": 1636356000,
+                "power": 0
+            },
+            {
+                "fieldName": "Turbine 4 Temperature",
+                "timestamp": 1636356000,
+                "power": 17.468399375
+            },
+            {
+                "fieldName": "Turbine 4 WindDir",
+                "timestamp": 1636356000,
+                "power": 203.916581470588
+            },
+            {
+                "fieldName": "Turbine 4 WindSpeed",
+                "timestamp": 1636356000,
+                "power": 3.04298847567568
+            },
+            {
+                "fieldName": "Turbine 5 AirPres",
+                "timestamp": 1636356000,
+                "power": 989.544833658536
+            },
+            {
+                "fieldName": "Turbine 5 Power",
+                "timestamp": 1636356000,
+                "power": 0.197252251621622
+            },
+            {
+                "fieldName": "Turbine 5 Temperature",
+                "timestamp": 1636356000,
+                "power": 16.9466666904762
+            },
+            {
+                "fieldName": "Turbine 5 WindDir",
+                "timestamp": 1636356000,
+                "power": 171.194570952381
+            },
+            {
+                "fieldName": "Turbine 5 WindSpeed",
+                "timestamp": 1636356000,
+                "power": 4.65403165945946
+            },
+            {
+                "fieldName": "Turbine 6 AirPres",
+                "timestamp": 1636356000,
+                "power": 971.248064634146
+            },
+            {
+                "fieldName": "Turbine 6 Power",
+                "timestamp": 1636356000,
+                "power": 0.124507852422222
+            },
+            {
+                "fieldName": "Turbine 6 Temperature",
+                "timestamp": 1636356000,
+                "power": 16.8477070731707
+            },
+            {
+                "fieldName": "Turbine 6 WindDir",
+                "timestamp": 1636356000,
+                "power": 256.482974186046
+            },
+            {
+                "fieldName": "Turbine 6 WindSpeed",
+                "timestamp": 1636356000,
+                "power": 4.15221415
+            },
+            {
+                "fieldName": "Turbine 1 AirPres",
+                "timestamp": 1636356600,
+                "power": 0
+            },
+            {
+                "fieldName": "Turbine 1 Power",
+                "timestamp": 1636356600,
+                "power": 0.106234782521739
+            },
+            {
+                "fieldName": "Turbine 1 Temperature",
+                "timestamp": 1636356600,
+                "power": 0
+            },
+            {
+                "fieldName": "Turbine 1 WindDir",
+                "timestamp": 1636356600,
+                "power": 216.82330173913
+            },
+            {
+                "fieldName": "Turbine 1 WindSpeed",
+                "timestamp": 1636356600,
+                "power": 3.98426441851852
+            },
+            {
+                "fieldName": "Turbine 2 AirPres",
+                "timestamp": 1636356600,
+                "power": 989.712454117647
+            },
+            {
+                "fieldName": "Turbine 2 Power",
+                "timestamp": 1636356600,
+                "power": 0.00042898552173913
+            },
+            {
+                "fieldName": "Turbine 2 Temperature",
+                "timestamp": 1636356600,
+                "power": 17.86127984
+            },
+            {
+                "fieldName": "Turbine 2 WindDir",
+                "timestamp": 1636356600,
+                "power": 215.226961851852
+            },
+            {
+                "fieldName": "Turbine 2 WindSpeed",
+                "timestamp": 1636356600,
+                "power": 3.23107818709677
+            },
+            {
+                "fieldName": "Turbine 3 AirPres",
+                "timestamp": 1636356600,
+                "power": 990.776146666667
+            },
+            {
+                "fieldName": "Turbine 3 Power",
+                "timestamp": 1636356600,
+                "power": 0.131802468148148
+            },
+            {
+                "fieldName": "Turbine 3 Temperature",
+                "timestamp": 1636356600,
+                "power": 17.5739981875
+            },
+            {
+                "fieldName": "Turbine 3 WindDir",
+                "timestamp": 1636356600,
+                "power": 259.994505714286
+            },
+            {
+                "fieldName": "Turbine 3 WindSpeed",
+                "timestamp": 1636356600,
+                "power": 4.284903452
+            },
+            {
+                "fieldName": "Turbine 4 AirPres",
+                "timestamp": 1636356600,
+                "power": 989.050026206897
+            },
+            {
+                "fieldName": "Turbine 4 Power",
+                "timestamp": 1636356600,
+                "power": 0.0575890482607143
+            },
+            {
+                "fieldName": "Turbine 4 Temperature",
+                "timestamp": 1636356600,
+                "power": 17.4469095757576
+            },
+            {
+                "fieldName": "Turbine 4 WindDir",
+                "timestamp": 1636356600,
+                "power": 182.735169411765
+            },
+            {
+                "fieldName": "Turbine 4 WindSpeed",
+                "timestamp": 1636356600,
+                "power": 3.70680789354839
+            },
+            {
+                "fieldName": "Turbine 5 AirPres",
+                "timestamp": 1636356600,
+                "power": 989.483846969697
+            },
+            {
+                "fieldName": "Turbine 5 Power",
+                "timestamp": 1636356600,
+                "power": 0.15925625046875
+            },
+            {
+                "fieldName": "Turbine 5 Temperature",
+                "timestamp": 1636356600,
+                "power": 17.048624875
+            },
+            {
+                "fieldName": "Turbine 5 WindDir",
+                "timestamp": 1636356600,
+                "power": 169.078667037037
+            },
+            {
+                "fieldName": "Turbine 5 WindSpeed",
+                "timestamp": 1636356600,
+                "power": 4.40929934411765
+            },
+            {
+                "fieldName": "Turbine 6 AirPres",
+                "timestamp": 1636356600,
+                "power": 971.221256756757
+            },
+            {
+                "fieldName": "Turbine 6 Power",
+                "timestamp": 1636356600,
+                "power": 0.127962380321429
+            },
+            {
+                "fieldName": "Turbine 6 Temperature",
+                "timestamp": 1636356600,
+                "power": 16.9478622758621
+            },
+            {
+                "fieldName": "Turbine 6 WindDir",
+                "timestamp": 1636356600,
+                "power": 255.741375
+            },
+            {
+                "fieldName": "Turbine 6 WindSpeed",
+                "timestamp": 1636356600,
+                "power": 4.28339331176471
+            },
+            {
+                "fieldName": "Turbine 1 AirPres",
+                "timestamp": 1636357200,
+                "power": 0
+            },
+            {
+                "fieldName": "Turbine 1 Power",
+                "timestamp": 1636357200,
+                "power": 0.0124285056551724
+            },
+            {
+                "fieldName": "Turbine 1 Temperature",
+                "timestamp": 1636357200,
+                "power": 0
+            },
+            {
+                "fieldName": "Turbine 1 WindDir",
+                "timestamp": 1636357200,
+                "power": 210.577996923077
+            },
+            {
+                "fieldName": "Turbine 1 WindSpeed",
+                "timestamp": 1636357200,
+                "power": 3.02198461111111
+            },
+            {
+                "fieldName": "Turbine 2 AirPres",
+                "timestamp": 1636357200,
+                "power": 989.65785375
+            },
+            {
+                "fieldName": "Turbine 2 Power",
+                "timestamp": 1636357200,
+                "power": 0.0760059253333333
+            },
+            {
+                "fieldName": "Turbine 2 Temperature",
+                "timestamp": 1636357200,
+                "power": 17.9280005925926
+            },
+            {
+                "fieldName": "Turbine 2 WindDir",
+                "timestamp": 1636357200,
+                "power": 202.103470333333
+            },
+            {
+                "fieldName": "Turbine 2 WindSpeed",
+                "timestamp": 1636357200,
+                "power": 3.390330553125
+            },
+            {
+                "fieldName": "Turbine 3 AirPres",
+                "timestamp": 1636357200,
+                "power": 990.763040606061
+            },
+            {
+                "fieldName": "Turbine 3 Power",
+                "timestamp": 1636357200,
+                "power": 0.0524495717615385
+            },
+            {
+                "fieldName": "Turbine 3 Temperature",
+                "timestamp": 1636357200,
+                "power": 17.7952817179487
+            },
+            {
+                "fieldName": "Turbine 3 WindDir",
+                "timestamp": 1636357200,
+                "power": 255.836126333333
+            },
+            {
+                "fieldName": "Turbine 3 WindSpeed",
+                "timestamp": 1636357200,
+                "power": 3.46936113225806
+            },
+            {
+                "fieldName": "Turbine 4 AirPres",
+                "timestamp": 1636357200,
+                "power": 989.008380277778
+            },
+            {
+                "fieldName": "Turbine 4 Power",
+                "timestamp": 1636357200,
+                "power": 0.112821851769444
+            },
+            {
+                "fieldName": "Turbine 4 Temperature",
+                "timestamp": 1636357200,
+                "power": 17.4725718857143
+            },
+            {
+                "fieldName": "Turbine 4 WindDir",
+                "timestamp": 1636357200,
+                "power": 174.002621875
+            },
+            {
+                "fieldName": "Turbine 4 WindSpeed",
+                "timestamp": 1636357200,
+                "power": 4.32308537575758
+            },
+            {
+                "fieldName": "Turbine 5 AirPres",
+                "timestamp": 1636357200,
+                "power": 989.501048181818
+            },
+            {
+                "fieldName": "Turbine 5 Power",
+                "timestamp": 1636357200,
+                "power": 0.0255098244315789
+            },
+            {
+                "fieldName": "Turbine 5 Temperature",
+                "timestamp": 1636357200,
+                "power": 17.26149995
+            },
+            {
+                "fieldName": "Turbine 5 WindDir",
+                "timestamp": 1636357200,
+                "power": 162.518888888889
+            },
+            {
+                "fieldName": "Turbine 5 WindSpeed",
+                "timestamp": 1636357200,
+                "power": 2.95607221636364
+            },
+            {
+                "fieldName": "Turbine 6 AirPres",
+                "timestamp": 1636357200,
+                "power": 971.184781351351
+            },
+            {
+                "fieldName": "Turbine 6 Power",
+                "timestamp": 1636357200,
+                "power": 0.082465586
+            },
+            {
+                "fieldName": "Turbine 6 Temperature",
+                "timestamp": 1636357200,
+                "power": 17.1138832352941
+            },
+            {
+                "fieldName": "Turbine 6 WindDir",
+                "timestamp": 1636357200,
+                "power": 244.571026363636
+            },
+            {
+                "fieldName": "Turbine 6 WindSpeed",
+                "timestamp": 1636357200,
+                "power": 3.73056226666667
+            },
+            {
+                "fieldName": "Turbine 1 AirPres",
+                "timestamp": 1636357800,
+                "power": 0
+            },
+            {
+                "fieldName": "Turbine 1 Power",
+                "timestamp": 1636357800,
+                "power": 0.0351161287741936
+            },
+            {
+                "fieldName": "Turbine 1 Temperature",
+                "timestamp": 1636357800,
+                "power": 0
+            },
+            {
+                "fieldName": "Turbine 1 WindDir",
+                "timestamp": 1636357800,
+                "power": 202.673711785714
+            },
+            {
+                "fieldName": "Turbine 1 WindSpeed",
+                "timestamp": 1636357800,
+                "power": 3.18707620322581
+            },
+            {
+                "fieldName": "Turbine 2 AirPres",
+                "timestamp": 1636357800,
+                "power": 989.665063333333
+            },
+            {
+                "fieldName": "Turbine 2 Power",
+                "timestamp": 1636357800,
+                "power": 0.116836543259259
+            },
+            {
+                "fieldName": "Turbine 2 Temperature",
+                "timestamp": 1636357800,
+                "power": 17.7884006666667
+            },
+            {
+                "fieldName": "Turbine 2 WindDir",
+                "timestamp": 1636357800,
+                "power": 201.706671666667
+            },
+            {
+                "fieldName": "Turbine 2 WindSpeed",
+                "timestamp": 1636357800,
+                "power": 4.33141373571429
+            },
+            {
+                "fieldName": "Turbine 3 AirPres",
+                "timestamp": 1636357800,
+                "power": 990.780105789473
+            },
+            {
+                "fieldName": "Turbine 3 Power",
+                "timestamp": 1636357800,
+                "power": 0.0877587888636364
+            },
+            {
+                "fieldName": "Turbine 3 Temperature",
+                "timestamp": 1636357800,
+                "power": 17.771111
+            },
+            {
+                "fieldName": "Turbine 3 WindDir",
+                "timestamp": 1636357800,
+                "power": 251.060511935484
+            },
+            {
+                "fieldName": "Turbine 3 WindSpeed",
+                "timestamp": 1636357800,
+                "power": 3.8763879804878
+            },
+            {
+                "fieldName": "Turbine 4 AirPres",
+                "timestamp": 1636357800,
+                "power": 989.044792432432
+            },
+            {
+                "fieldName": "Turbine 4 Power",
+                "timestamp": 1636357800,
+                "power": 0.09327916696875
+            },
+            {
+                "fieldName": "Turbine 4 Temperature",
+                "timestamp": 1636357800,
+                "power": 17.4924009666667
+            },
+            {
+                "fieldName": "Turbine 4 WindDir",
+                "timestamp": 1636357800,
+                "power": 170.333403243243
+            },
+            {
+                "fieldName": "Turbine 4 WindSpeed",
+                "timestamp": 1636357800,
+                "power": 3.69499314761905
+            },
+            {
+                "fieldName": "Turbine 5 AirPres",
+                "timestamp": 1636357800,
+                "power": 989.503292777778
+            },
+            {
+                "fieldName": "Turbine 5 Power",
+                "timestamp": 1636357800,
+                "power": 0.0305755557472222
+            },
+            {
+                "fieldName": "Turbine 5 Temperature",
+                "timestamp": 1636357800,
+                "power": 17.4264867027027
+            },
+            {
+                "fieldName": "Turbine 5 WindDir",
+                "timestamp": 1636357800,
+                "power": 163.299472631579
+            },
+            {
+                "fieldName": "Turbine 5 WindSpeed",
+                "timestamp": 1636357800,
+                "power": 3.18952220617647
+            },
+            {
+                "fieldName": "Turbine 6 AirPres",
+                "timestamp": 1636357800,
+                "power": 971.180645405405
+            },
+            {
+                "fieldName": "Turbine 6 Power",
+                "timestamp": 1636357800,
+                "power": 0.09166666675
+            },
+            {
+                "fieldName": "Turbine 6 Temperature",
+                "timestamp": 1636357800,
+                "power": 17.193828
+            },
+            {
+                "fieldName": "Turbine 6 WindDir",
+                "timestamp": 1636357800,
+                "power": 246.035585384615
+            },
+            {
+                "fieldName": "Turbine 6 WindSpeed",
+                "timestamp": 1636357800,
+                "power": 3.88728427777778
+            },
+            {
+                "fieldName": "Turbine 1 AirPres",
+                "timestamp": 1636358400,
+                "power": 0
+            },
+            {
+                "fieldName": "Turbine 1 Power",
+                "timestamp": 1636358400,
+                "power": 0
+            },
+            {
+                "fieldName": "Turbine 1 Temperature",
+                "timestamp": 1636358400,
+                "power": 0
+            },
+            {
+                "fieldName": "Turbine 1 WindDir",
+                "timestamp": 1636358400,
+                "power": 215.319995
+            },
+            {
+                "fieldName": "Turbine 1 WindSpeed",
+                "timestamp": 1636358400,
+                "power": 2.2060226
+            },
+            {
+                "fieldName": "Turbine 2 AirPres",
+                "timestamp": 1636358400,
+                "power": 989.635315
+            },
+            {
+                "fieldName": "Turbine 2 Power",
+                "timestamp": 1636358400,
+                "power": 0
+            },
+            {
+                "fieldName": "Turbine 2 Temperature",
+                "timestamp": 1636358400,
+                "power": 18.0653356666667
+            },
+            {
+                "fieldName": "Turbine 2 WindDir",
+                "timestamp": 1636358400,
+                "power": 175.840005
+            },
+            {
+                "fieldName": "Turbine 2 WindSpeed",
+                "timestamp": 1636358400,
+                "power": 3.4628975
+            },
+            {
+                "fieldName": "Turbine 3 AirPres",
+                "timestamp": 1636358400,
+                "power": 990.75468
+            },
+            {
+                "fieldName": "Turbine 3 Power",
+                "timestamp": 1636358400,
+                "power": 0.00753333333333333
+            },
+            {
+                "fieldName": "Turbine 3 Temperature",
+                "timestamp": 1636358400,
+                "power": 17.860001
+            },
+            {
+                "fieldName": "Turbine 3 WindDir",
+                "timestamp": 1636358400,
+                "power": 238.836
+            },
+            {
+                "fieldName": "Turbine 3 WindSpeed",
+                "timestamp": 1636358400,
+                "power": 2.88826295
+            },
+            {
+                "fieldName": "Turbine 4 AirPres",
+                "timestamp": 1636358400,
+                "power": 988.970916666667
+            },
+            {
+                "fieldName": "Turbine 4 Power",
+                "timestamp": 1636358400,
+                "power": 0.07649333
+            },
+            {
+                "fieldName": "Turbine 4 Temperature",
+                "timestamp": 1636358400,
+                "power": 17.689999
+            },
+            {
+                "fieldName": "Turbine 4 WindDir",
+                "timestamp": 1636358400,
+                "power": 157.352
+            },
+            {
+                "fieldName": "Turbine 4 WindSpeed",
+                "timestamp": 1636358400,
+                "power": 3.88095066666667
+            },
+            {
+                "fieldName": "Turbine 5 AirPres",
+                "timestamp": 1636358400,
+                "power": 989.458995
+            },
+            {
+                "fieldName": "Turbine 5 Power",
+                "timestamp": 1636358400,
+                "power": 0
+            },
+            {
+                "fieldName": "Turbine 5 Temperature",
+                "timestamp": 1636358400,
+                "power": 17.87700075
+            },
+            {
+                "fieldName": "Turbine 5 WindDir",
+                "timestamp": 1636358400,
+                "power": 141.173997
+            },
+            {
+                "fieldName": "Turbine 5 WindSpeed",
+                "timestamp": 1636358400,
+                "power": 2.103988175
+            },
+            {
+                "fieldName": "Turbine 6 AirPres",
+                "timestamp": 1636358400,
+                "power": 971.066686666667
+            },
+            {
+                "fieldName": "Turbine 6 Power",
+                "timestamp": 1636358400,
+                "power": 0.0488755566666667
+            },
+            {
+                "fieldName": "Turbine 6 Temperature",
+                "timestamp": 1636358400,
+                "power": 17.49100125
+            },
+            {
+                "fieldName": "Turbine 6 WindDir",
+                "timestamp": 1636358400,
+                "power": 237.753
+            },
+            {
+                "fieldName": "Turbine 6 WindSpeed",
+                "timestamp": 1636358400,
+                "power": 3.2542737
+            }
+        ]
+    }
+    ,
+    {
+        "fieldId": 49,
+        "fieldName": "Eber Res",
+        "values": []
+    }
+    ,
+    {
+        "fieldId": 48,
+        "fieldName": "Odemis Res",
+        "values": []
+    }
+    ,
+    {
+        "fieldId": 47,
+        "fieldName": "Bagarasi Res",
+        "values": []
+    }
+    ,
+    {
+        "fieldId": 51,
+        "fieldName": "Kuyulukoyak Res",
+        "values": [
+            {
+                "fieldName": "Turbine 1 Power",
+                "timestamp": 1636351200,
+                "power": 1.0569
+            },
+            {
+                "fieldName": "Turbine 1 WindDir",
+                "timestamp": 1636351200,
+                "power": 96.2982268648649
+            },
+            {
+                "fieldName": "Turbine 1 WindSpeed",
+                "timestamp": 1636351200,
+                "power": 6.78571447142857
+            },
+            {
+                "fieldName": "Turbine 2 Power",
+                "timestamp": 1636351200,
+                "power": 0.722666666666667
+            },
+            {
+                "fieldName": "Turbine 2 WindSpeed",
+                "timestamp": 1636351200,
+                "power": 6.95555568888889
+            },
+            {
+                "fieldName": "Turbine 3 Power",
+                "timestamp": 1636351200,
+                "power": 1.02158333333333
+            },
+            {
+                "fieldName": "Turbine 3 WindSpeed",
+                "timestamp": 1636351200,
+                "power": 7.02222228888889
+            },
+            {
+                "fieldName": "Turbine 4 Power",
+                "timestamp": 1636351200,
+                "power": 1.00681818181818
+            },
+            {
+                "fieldName": "Turbine 4 WindSpeed",
+                "timestamp": 1636351200,
+                "power": 7.1454546
+            },
+            {
+                "fieldName": "Turbine 1 Power",
+                "timestamp": 1636351800,
+                "power": 0.956285714285714
+            },
+            {
+                "fieldName": "Turbine 1 WindDir",
+                "timestamp": 1636351800,
+                "power": 96.3831369545455
+            },
+            {
+                "fieldName": "Turbine 1 WindSpeed",
+                "timestamp": 1636351800,
+                "power": 7.15
+            },
+            {
+                "fieldName": "Turbine 2 Power",
+                "timestamp": 1636351800,
+                "power": 0.9587
+            },
+            {
+                "fieldName": "Turbine 2 WindSpeed",
+                "timestamp": 1636351800,
+                "power": 7.4333334
+            },
+            {
+                "fieldName": "Turbine 3 Power",
+                "timestamp": 1636351800,
+                "power": 1.10257142857143
+            },
+            {
+                "fieldName": "Turbine 3 WindSpeed",
+                "timestamp": 1636351800,
+                "power": 7.8
+            },
+            {
+                "fieldName": "Turbine 4 Power",
+                "timestamp": 1636351800,
+                "power": 0.968142857142857
+            },
+            {
+                "fieldName": "Turbine 4 WindSpeed",
+                "timestamp": 1636351800,
+                "power": 6.91538466153846
+            },
+            {
+                "fieldName": "Turbine 1 Power",
+                "timestamp": 1636352400,
+                "power": 0.871571428571429
+            },
+            {
+                "fieldName": "Turbine 1 WindDir",
+                "timestamp": 1636352400,
+                "power": 96.7409846428571
+            },
+            {
+                "fieldName": "Turbine 1 WindSpeed",
+                "timestamp": 1636352400,
+                "power": 7.18888895555556
+            },
+            {
+                "fieldName": "Turbine 2 Power",
+                "timestamp": 1636352400,
+                "power": 1.04736363636364
+            },
+            {
+                "fieldName": "Turbine 2 WindSpeed",
+                "timestamp": 1636352400,
+                "power": 7.42857151428571
+            },
+            {
+                "fieldName": "Turbine 3 Power",
+                "timestamp": 1636352400,
+                "power": 1.16869230769231
+            },
+            {
+                "fieldName": "Turbine 3 WindSpeed",
+                "timestamp": 1636352400,
+                "power": 7.38000003
+            },
+            {
+                "fieldName": "Turbine 4 Power",
+                "timestamp": 1636352400,
+                "power": 1.3306
+            },
+            {
+                "fieldName": "Turbine 4 WindSpeed",
+                "timestamp": 1636352400,
+                "power": 7.88333335833333
+            },
+            {
+                "fieldName": "Turbine 1 Power",
+                "timestamp": 1636353000,
+                "power": 0.733857142857143
+            },
+            {
+                "fieldName": "Turbine 1 WindDir",
+                "timestamp": 1636353000,
+                "power": 97.5657852162163
+            },
+            {
+                "fieldName": "Turbine 1 WindSpeed",
+                "timestamp": 1636353000,
+                "power": 6.21111121111111
+            },
+            {
+                "fieldName": "Turbine 2 Power",
+                "timestamp": 1636353000,
+                "power": 1.01825
+            },
+            {
+                "fieldName": "Turbine 2 WindSpeed",
+                "timestamp": 1636353000,
+                "power": 7.90000014545454
+            },
+            {
+                "fieldName": "Turbine 3 Power",
+                "timestamp": 1636353000,
+                "power": 1.07266666666667
+            },
+            {
+                "fieldName": "Turbine 3 WindSpeed",
+                "timestamp": 1636353000,
+                "power": 7.05454545454545
+            },
+            {
+                "fieldName": "Turbine 4 Power",
+                "timestamp": 1636353000,
+                "power": 1.0907
+            },
+            {
+                "fieldName": "Turbine 4 WindSpeed",
+                "timestamp": 1636353000,
+                "power": 7.61111121111111
+            },
+            {
+                "fieldName": "Turbine 1 Power",
+                "timestamp": 1636353600,
+                "power": 0.739909090909091
+            },
+            {
+                "fieldName": "Turbine 1 WindDir",
+                "timestamp": 1636353600,
+                "power": 95.8538787407407
+            },
+            {
+                "fieldName": "Turbine 1 WindSpeed",
+                "timestamp": 1636353600,
+                "power": 5.80000013333333
+            },
+            {
+                "fieldName": "Turbine 2 Power",
+                "timestamp": 1636353600,
+                "power": 0.728444444444444
+            },
+            {
+                "fieldName": "Turbine 2 WindSpeed",
+                "timestamp": 1636353600,
+                "power": 6.2937500375
+            },
+            {
+                "fieldName": "Turbine 3 Power",
+                "timestamp": 1636353600,
+                "power": 0.9975
+            },
+            {
+                "fieldName": "Turbine 3 WindSpeed",
+                "timestamp": 1636353600,
+                "power": 7.45000008333333
+            },
+            {
+                "fieldName": "Turbine 4 Power",
+                "timestamp": 1636353600,
+                "power": 1.05823529411765
+            },
+            {
+                "fieldName": "Turbine 4 WindSpeed",
+                "timestamp": 1636353600,
+                "power": 6.99230771538461
+            },
+            {
+                "fieldName": "Turbine 1 Power",
+                "timestamp": 1636354200,
+                "power": 0.728076923076923
+            },
+            {
+                "fieldName": "Turbine 1 WindDir",
+                "timestamp": 1636354200,
+                "power": 95.029292754717
+            },
+            {
+                "fieldName": "Turbine 1 WindSpeed",
+                "timestamp": 1636354200,
+                "power": 6.000000075
+            },
+            {
+                "fieldName": "Turbine 2 Power",
+                "timestamp": 1636354200,
+                "power": 0.69975
+            },
+            {
+                "fieldName": "Turbine 2 WindSpeed",
+                "timestamp": 1636354200,
+                "power": 6.35555565555555
+            },
+            {
+                "fieldName": "Turbine 3 Power",
+                "timestamp": 1636354200,
+                "power": 0.76825
+            },
+            {
+                "fieldName": "Turbine 3 WindSpeed",
+                "timestamp": 1636354200,
+                "power": 6.23846153846154
+            },
+            {
+                "fieldName": "Turbine 4 Power",
+                "timestamp": 1636354200,
+                "power": 1.07083333333333
+            },
+            {
+                "fieldName": "Turbine 4 WindSpeed",
+                "timestamp": 1636354200,
+                "power": 7.24285716428571
+            },
+            {
+                "fieldName": "Turbine 1 Power",
+                "timestamp": 1636354800,
+                "power": 0.425090909090909
+            },
+            {
+                "fieldName": "Turbine 1 WindDir",
+                "timestamp": 1636354800,
+                "power": 93.9197112745098
+            },
+            {
+                "fieldName": "Turbine 1 WindSpeed",
+                "timestamp": 1636354800,
+                "power": 5.191666725
+            },
+            {
+                "fieldName": "Turbine 2 Power",
+                "timestamp": 1636354800,
+                "power": 0.593333333333333
+            },
+            {
+                "fieldName": "Turbine 2 WindSpeed",
+                "timestamp": 1636354800,
+                "power": 6.5538462
+            },
+            {
+                "fieldName": "Turbine 3 Power",
+                "timestamp": 1636354800,
+                "power": 0.895785714285714
+            },
+            {
+                "fieldName": "Turbine 3 WindSpeed",
+                "timestamp": 1636354800,
+                "power": 7.1875000375
+            },
+            {
+                "fieldName": "Turbine 4 Power",
+                "timestamp": 1636354800,
+                "power": 1.13471428571429
+            },
+            {
+                "fieldName": "Turbine 4 WindSpeed",
+                "timestamp": 1636354800,
+                "power": 7.60625008125
+            },
+            {
+                "fieldName": "Turbine 1 Power",
+                "timestamp": 1636355400,
+                "power": 0.3928
+            },
+            {
+                "fieldName": "Turbine 1 WindDir",
+                "timestamp": 1636355400,
+                "power": 95.1246715306123
+            },
+            {
+                "fieldName": "Turbine 1 WindSpeed",
+                "timestamp": 1636355400,
+                "power": 4.69090914545455
+            },
+            {
+                "fieldName": "Turbine 2 Power",
+                "timestamp": 1636355400,
+                "power": 0.789692307692308
+            },
+            {
+                "fieldName": "Turbine 2 WindSpeed",
+                "timestamp": 1636355400,
+                "power": 6.59000003
+            },
+            {
+                "fieldName": "Turbine 3 Power",
+                "timestamp": 1636355400,
+                "power": 0.7116
+            },
+            {
+                "fieldName": "Turbine 3 WindSpeed",
+                "timestamp": 1636355400,
+                "power": 6.450000025
+            },
+            {
+                "fieldName": "Turbine 4 Power",
+                "timestamp": 1636355400,
+                "power": 0.983125
+            },
+            {
+                "fieldName": "Turbine 4 WindSpeed",
+                "timestamp": 1636355400,
+                "power": 7.10714299285714
+            },
+            {
+                "fieldName": "Turbine 1 Power",
+                "timestamp": 1636356000,
+                "power": 0.3869
+            },
+            {
+                "fieldName": "Turbine 1 WindDir",
+                "timestamp": 1636356000,
+                "power": 95.1620888139535
+            },
+            {
+                "fieldName": "Turbine 1 WindSpeed",
+                "timestamp": 1636356000,
+                "power": 5.00833338333333
+            },
+            {
+                "fieldName": "Turbine 2 Power",
+                "timestamp": 1636356000,
+                "power": 0.731545454545454
+            },
+            {
+                "fieldName": "Turbine 2 WindSpeed",
+                "timestamp": 1636356000,
+                "power": 6.66923081538461
+            },
+            {
+                "fieldName": "Turbine 3 Power",
+                "timestamp": 1636356000,
+                "power": 0.925
+            },
+            {
+                "fieldName": "Turbine 3 WindSpeed",
+                "timestamp": 1636356000,
+                "power": 6.975000075
+            },
+            {
+                "fieldName": "Turbine 4 Power",
+                "timestamp": 1636356000,
+                "power": 0.947416666666667
+            },
+            {
+                "fieldName": "Turbine 4 WindSpeed",
+                "timestamp": 1636356000,
+                "power": 6.74545454545455
+            },
+            {
+                "fieldName": "Turbine 1 Power",
+                "timestamp": 1636356600,
+                "power": 0.2368
+            },
+            {
+                "fieldName": "Turbine 1 WindDir",
+                "timestamp": 1636356600,
+                "power": 92.9564533777777
+            },
+            {
+                "fieldName": "Turbine 1 WindSpeed",
+                "timestamp": 1636356600,
+                "power": 5.38333338333333
+            },
+            {
+                "fieldName": "Turbine 2 Power",
+                "timestamp": 1636356600,
+                "power": 0.557272727272727
+            },
+            {
+                "fieldName": "Turbine 2 WindSpeed",
+                "timestamp": 1636356600,
+                "power": 6.12000006
+            },
+            {
+                "fieldName": "Turbine 3 Power",
+                "timestamp": 1636356600,
+                "power": 0.632555555555556
+            },
+            {
+                "fieldName": "Turbine 3 WindSpeed",
+                "timestamp": 1636356600,
+                "power": 6.19
+            },
+            {
+                "fieldName": "Turbine 4 Power",
+                "timestamp": 1636356600,
+                "power": 0.728615384615385
+            },
+            {
+                "fieldName": "Turbine 4 WindSpeed",
+                "timestamp": 1636356600,
+                "power": 6.68888892222222
+            },
+            {
+                "fieldName": "Turbine 1 Power",
+                "timestamp": 1636357200,
+                "power": 0.353875
+            },
+            {
+                "fieldName": "Turbine 1 WindDir",
+                "timestamp": 1636357200,
+                "power": 96.6149990425532
+            },
+            {
+                "fieldName": "Turbine 1 WindSpeed",
+                "timestamp": 1636357200,
+                "power": 4.85555565555556
+            },
+            {
+                "fieldName": "Turbine 2 Power",
+                "timestamp": 1636357200,
+                "power": 0.597222222222222
+            },
+            {
+                "fieldName": "Turbine 2 WindSpeed",
+                "timestamp": 1636357200,
+                "power": 6.30833345833333
+            },
+            {
+                "fieldName": "Turbine 3 Power",
+                "timestamp": 1636357200,
+                "power": 0.438
+            },
+            {
+                "fieldName": "Turbine 3 WindSpeed",
+                "timestamp": 1636357200,
+                "power": 5.72307701538461
+            },
+            {
+                "fieldName": "Turbine 4 Power",
+                "timestamp": 1636357200,
+                "power": 0.6601
+            },
+            {
+                "fieldName": "Turbine 4 WindSpeed",
+                "timestamp": 1636357200,
+                "power": 6.50000010909091
+            },
+            {
+                "fieldName": "Turbine 1 Power",
+                "timestamp": 1636357800,
+                "power": 0.431714285714286
+            },
+            {
+                "fieldName": "Turbine 1 WindDir",
+                "timestamp": 1636357800,
+                "power": 94.7186411621621
+            },
+            {
+                "fieldName": "Turbine 1 WindSpeed",
+                "timestamp": 1636357800,
+                "power": 5.30000017142857
+            },
+            {
+                "fieldName": "Turbine 2 Power",
+                "timestamp": 1636357800,
+                "power": 0.543777777777778
+            },
+            {
+                "fieldName": "Turbine 2 WindSpeed",
+                "timestamp": 1636357800,
+                "power": 5.98571437142857
+            },
+            {
+                "fieldName": "Turbine 3 Power",
+                "timestamp": 1636357800,
+                "power": 0.463833333333333
+            },
+            {
+                "fieldName": "Turbine 3 WindSpeed",
+                "timestamp": 1636357800,
+                "power": 5.55333341333333
+            },
+            {
+                "fieldName": "Turbine 4 Power",
+                "timestamp": 1636357800,
+                "power": 0.479166666666667
+            },
+            {
+                "fieldName": "Turbine 4 WindSpeed",
+                "timestamp": 1636357800,
+                "power": 5.61538468461538
+            },
+            {
+                "fieldName": "Turbine 1 WindDir",
+                "timestamp": 1636358400,
+                "power": 93.8473
+            },
+            {
+                "fieldName": "Turbine 1 WindSpeed",
+                "timestamp": 1636358400,
+                "power": 4.9
+            },
+            {
+                "fieldName": "Turbine 4 Power",
+                "timestamp": 1636358400,
+                "power": 0.5
+            }
+        ]
+    }
+    ,
+    {
+        "fieldId": 52,
+        "fieldName": "Germiyan Res",
+        "values": [
+            {
+                "fieldName": "Turbine 2 AirPres",
+                "timestamp": 1636351200,
+                "power": 972.03265
+            },
+            {
+                "fieldName": "Turbine 2 Power",
+                "timestamp": 1636351200,
+                "power": 0
+            },
+            {
+                "fieldName": "Turbine 2 Temperature",
+                "timestamp": 1636351200,
+                "power": 0
+            },
+            {
+                "fieldName": "Turbine 2 WindDir",
+                "timestamp": 1636351200,
+                "power": 0
+            },
+            {
+                "fieldName": "Turbine 2 WindSpeed",
+                "timestamp": 1636351200,
+                "power": 1.4431783
+            },
+            {
+                "fieldName": "Turbine 2 AirPres",
+                "timestamp": 1636351800,
+                "power": 972.03265
+            },
+            {
+                "fieldName": "Turbine 2 Power",
+                "timestamp": 1636351800,
+                "power": 0
+            },
+            {
+                "fieldName": "Turbine 2 Temperature",
+                "timestamp": 1636351800,
+                "power": 0
+            },
+            {
+                "fieldName": "Turbine 2 WindDir",
+                "timestamp": 1636351800,
+                "power": 0
+            },
+            {
+                "fieldName": "Turbine 2 WindSpeed",
+                "timestamp": 1636351800,
+                "power": 1.4431783
+            },
+            {
+                "fieldName": "Turbine 2 AirPres",
+                "timestamp": 1636352400,
+                "power": 972.03265
+            },
+            {
+                "fieldName": "Turbine 2 Power",
+                "timestamp": 1636352400,
+                "power": 0
+            },
+            {
+                "fieldName": "Turbine 2 Temperature",
+                "timestamp": 1636352400,
+                "power": 10.3693326666667
+            },
+            {
+                "fieldName": "Turbine 2 WindDir",
+                "timestamp": 1636352400,
+                "power": 83.4111447142857
+            },
+            {
+                "fieldName": "Turbine 2 WindSpeed",
+                "timestamp": 1636352400,
+                "power": 1.36374900769231
+            },
+            {
+                "fieldName": "Turbine 2 AirPres",
+                "timestamp": 1636353000,
+                "power": 972.03265
+            },
+            {
+                "fieldName": "Turbine 2 Power",
+                "timestamp": 1636353000,
+                "power": 0
+            },
+            {
+                "fieldName": "Turbine 2 Temperature",
+                "timestamp": 1636353000,
+                "power": 18.388889
+            },
+            {
+                "fieldName": "Turbine 2 WindDir",
+                "timestamp": 1636353000,
+                "power": 92.0889938333333
+            },
+            {
+                "fieldName": "Turbine 2 WindSpeed",
+                "timestamp": 1636353000,
+                "power": 1.0443480925
+            },
+            {
+                "fieldName": "Turbine 2 AirPres",
+                "timestamp": 1636353600,
+                "power": 972.03265
+            },
+            {
+                "fieldName": "Turbine 2 Power",
+                "timestamp": 1636353600,
+                "power": 0
+            },
+            {
+                "fieldName": "Turbine 2 Temperature",
+                "timestamp": 1636353600,
+                "power": 18.5833856923077
+            },
+            {
+                "fieldName": "Turbine 2 WindDir",
+                "timestamp": 1636353600,
+                "power": 108.978157076923
+            },
+            {
+                "fieldName": "Turbine 2 WindSpeed",
+                "timestamp": 1636353600,
+                "power": 1.49404906
+            },
+            {
+                "fieldName": "Turbine 2 AirPres",
+                "timestamp": 1636354200,
+                "power": 972.03265
+            },
+            {
+                "fieldName": "Turbine 2 Power",
+                "timestamp": 1636354200,
+                "power": 0
+            },
+            {
+                "fieldName": "Turbine 2 Temperature",
+                "timestamp": 1636354200,
+                "power": 18.1591432857143
+            },
+            {
+                "fieldName": "Turbine 2 WindDir",
+                "timestamp": 1636354200,
+                "power": 150.822667333333
+            },
+            {
+                "fieldName": "Turbine 2 WindSpeed",
+                "timestamp": 1636354200,
+                "power": 1.29928220769231
+            },
+            {
+                "fieldName": "Turbine 2 AirPres",
+                "timestamp": 1636354800,
+                "power": 972.03265
+            },
+            {
+                "fieldName": "Turbine 2 Power",
+                "timestamp": 1636354800,
+                "power": 0
+            },
+            {
+                "fieldName": "Turbine 2 Temperature",
+                "timestamp": 1636354800,
+                "power": 17.8917328
+            },
+            {
+                "fieldName": "Turbine 2 WindDir",
+                "timestamp": 1636354800,
+                "power": 176.033338333333
+            },
+            {
+                "fieldName": "Turbine 2 WindSpeed",
+                "timestamp": 1636354800,
+                "power": 1.59916834285714
+            },
+            {
+                "fieldName": "Turbine 2 AirPres",
+                "timestamp": 1636355400,
+                "power": 972.03265
+            },
+            {
+                "fieldName": "Turbine 2 Power",
+                "timestamp": 1636355400,
+                "power": 0
+            },
+            {
+                "fieldName": "Turbine 2 Temperature",
+                "timestamp": 1636355400,
+                "power": 17.5185462727273
+            },
+            {
+                "fieldName": "Turbine 2 WindDir",
+                "timestamp": 1636355400,
+                "power": 192.91539
+            },
+            {
+                "fieldName": "Turbine 2 WindSpeed",
+                "timestamp": 1636355400,
+                "power": 3.1263164
+            },
+            {
+                "fieldName": "Turbine 2 AirPres",
+                "timestamp": 1636356000,
+                "power": 972.03265
+            },
+            {
+                "fieldName": "Turbine 2 Power",
+                "timestamp": 1636356000,
+                "power": 0.0116655556916667
+            },
+            {
+                "fieldName": "Turbine 2 Temperature",
+                "timestamp": 1636356000,
+                "power": 17.6535374615385
+            },
+            {
+                "fieldName": "Turbine 2 WindDir",
+                "timestamp": 1636356000,
+                "power": 195.663103333333
+            },
+            {
+                "fieldName": "Turbine 2 WindSpeed",
+                "timestamp": 1636356000,
+                "power": 3.69294989166667
+            },
+            {
+                "fieldName": "Turbine 2 AirPres",
+                "timestamp": 1636356600,
+                "power": 972.03265
+            },
+            {
+                "fieldName": "Turbine 2 Power",
+                "timestamp": 1636356600,
+                "power": 0.0600296288888889
+            },
+            {
+                "fieldName": "Turbine 2 Temperature",
+                "timestamp": 1636356600,
+                "power": 17.6975390769231
+            },
+            {
+                "fieldName": "Turbine 2 WindDir",
+                "timestamp": 1636356600,
+                "power": 188.402991666667
+            },
+            {
+                "fieldName": "Turbine 2 WindSpeed",
+                "timestamp": 1636356600,
+                "power": 3.89354778
+            },
+            {
+                "fieldName": "Turbine 2 AirPres",
+                "timestamp": 1636357200,
+                "power": 972.03265
+            },
+            {
+                "fieldName": "Turbine 2 Power",
+                "timestamp": 1636357200,
+                "power": 0.00536
+            },
+            {
+                "fieldName": "Turbine 2 Temperature",
+                "timestamp": 1636357200,
+                "power": 17.9105889411765
+            },
+            {
+                "fieldName": "Turbine 2 WindDir",
+                "timestamp": 1636357200,
+                "power": 187.678397333333
+            },
+            {
+                "fieldName": "Turbine 2 WindSpeed",
+                "timestamp": 1636357200,
+                "power": 3.30423143529412
+            },
+            {
+                "fieldName": "Turbine 2 AirPres",
+                "timestamp": 1636357800,
+                "power": 972.03265
+            },
+            {
+                "fieldName": "Turbine 2 Power",
+                "timestamp": 1636357800,
+                "power": 0
+            },
+            {
+                "fieldName": "Turbine 2 Temperature",
+                "timestamp": 1636357800,
+                "power": 18.1077900526316
+            },
+            {
+                "fieldName": "Turbine 2 WindDir",
+                "timestamp": 1636357800,
+                "power": 185.846662777778
+            },
+            {
+                "fieldName": "Turbine 2 WindSpeed",
+                "timestamp": 1636357800,
+                "power": 2.85889177058824
+            },
+            {
+                "fieldName": "Turbine 2 AirPres",
+                "timestamp": 1636358400,
+                "power": 972.03265
+            },
+            {
+                "fieldName": "Turbine 2 Temperature",
+                "timestamp": 1636358400,
+                "power": 18.136002
+            },
+            {
+                "fieldName": "Turbine 2 WindDir",
+                "timestamp": 1636358400,
+                "power": 188.486
+            },
+            {
+                "fieldName": "Turbine 2 WindSpeed",
+                "timestamp": 1636358400,
+                "power": 3.2445078
+            }
+        ]
+    }
+]
