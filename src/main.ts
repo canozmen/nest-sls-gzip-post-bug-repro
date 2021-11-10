@@ -17,6 +17,9 @@ export const handler: Handler = async (event: any, context: Context, callback: C
   // Change body depending on Content-Type, because gzipped body is not working with default serialization
   // Code taken from https://github.com/vendia/serverless-express/issues/251
   console.log(JSON.stringify(event.headers));
+  console.log(JSON.stringify(context));
+
+  event.body = (Buffer.from(event.body, 'binary') as unknown) as string;
   
   server = server ?? (await bootstrap());
   return server(event, context, callback);
