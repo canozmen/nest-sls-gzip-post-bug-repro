@@ -14,4 +14,9 @@ export class AppController {
   postHello(): string {
     return this.appService.postHello();
   }
+
+  @Post('/scada')
+  postScada(): string {
+    return this.appService.postScada("from controller", [1,2,3,4,5]);
+  }
 }

@@ -2,6 +2,8 @@ import { NestFactory } from '@nestjs/core';
 import { AppModule } from './app.module';
 import { Callback, Context, Handler } from 'aws-lambda';
 import serverlessExpress from '@vendia/serverless-express';
+import { AppService } from './app.service';
+import { HttpStatus } from '@nestjs/common';
 
 let server: Handler;
 
@@ -19,7 +21,24 @@ export const handler: Handler = async (event: any, context: Context, callback: C
   console.log(JSON.stringify(event.headers));
   console.log(JSON.stringify(context));
 
-  event.body = (Buffer.from(event.body, 'binary') as unknown) as string;
+  if (event.path === "/scada") {
+    const appContext = await NestFactory.createApplicationContext(AppModule);
+    const appService = appContext.get(AppService);
+    let jsonBody = [];
+    if (event.body !== null && event.body !== undefined) {
+      console.log(event.body);
+      jsonBody = event.body;
+    }
+    return {
+      body: appService.postScada("scada", jsonBody),
+      statusCode: HttpStatus.OK,
+    };
+  }
+
+  //event.body = (Buffer.from(event.body, 'binary') as unknown) as string;
+  if (event.headers['Content-Encoding'] === 'gzip') {
+    //event.body = Buffer.from(event.body, 'binary');
+  }
   
   server = server ?? (await bootstrap());
   return server(event, context, callback);

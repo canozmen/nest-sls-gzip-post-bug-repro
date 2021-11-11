@@ -9,4 +9,8 @@ export class AppService {
   postHello(): string {
     return 'Hello POST World!';
   }
+
+  postScada(companyName: string, scadaData: any[]): string {
+    return companyName + ' has length ' + scadaData.length;
+  }
 }
